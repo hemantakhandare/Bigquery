@@ -1,0 +1,16 @@
+Scenario :
+Suppose you want to delete tables in GCP dataset which has suffix _ct or _cv .
+
+You can use shell script to delete the tables based on the matching pattern.
+
+schell script details:
+1> meta file: this is driving file from which script reads the dataset name to search in.
+2>.sh file : Step 1> First script will create text file which table names to be deleted .
+             step 2> Read the file from step 1 and delete the tables.
+             
+             Imp note: Before running shell script first set the default project on which you want to run the shell script using below commands.
+             
+             gcloud config list
+
+            gcloud config set project model-union-266009
+
