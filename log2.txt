@@ -1,0 +1,5333 @@
+Today's date --> Fri Jun 26 13:51:16 UTC 2020
+********************
+Starting Table deletion script
+
+********************
+Step 1 : Extract tables names from the dataset to the temp text file
+Step 2 : Read the temp file containing tables and delete them one by one.
+********************
+
+
+executing Step 1 
+********************
+Preparing source file for dataset --> SI_ORP_SAP
+SI_ORP_SAP.txt file created successfully .
+********************
+********************
+Preparing source file for dataset --> SI_ORP_CUSTOM
+SI_ORP_CUSTOM.txt file created successfully .
+********************
+********************
+Preparing source file for dataset --> SI_ORP_SFDC
+SI_ORP_SFDC.txt file created successfully .
+********************
+Completed with  Step 1 
+********************
+
+Executing  Step 2
+********************
+Deleting tables for dataset --> SI_ORP_SAP
+Dropping --> SI_ORP_SAP.A002_ct
+SI_ORP_SAP.A002_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A002_hv
+SI_ORP_SAP.A002_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A004_ct
+SI_ORP_SAP.A004_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A004_hv
+SI_ORP_SAP.A004_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A005_ct
+SI_ORP_SAP.A005_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A005_hv
+SI_ORP_SAP.A005_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A007_ct
+SI_ORP_SAP.A007_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A007_hv
+SI_ORP_SAP.A007_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A017_ct
+SI_ORP_SAP.A017_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A017_hv
+SI_ORP_SAP.A017_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A040_ct
+SI_ORP_SAP.A040_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A040_hv
+SI_ORP_SAP.A040_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A056_ct
+SI_ORP_SAP.A056_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A056_hv
+SI_ORP_SAP.A056_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A078_ct
+SI_ORP_SAP.A078_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A078_hv
+SI_ORP_SAP.A078_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A406_ct
+SI_ORP_SAP.A406_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A406_hv
+SI_ORP_SAP.A406_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A418_ct
+SI_ORP_SAP.A418_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A418_hv
+SI_ORP_SAP.A418_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A600_ct
+SI_ORP_SAP.A600_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A600_hv
+SI_ORP_SAP.A600_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A601_ct
+SI_ORP_SAP.A601_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A601_hv
+SI_ORP_SAP.A601_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A602_ct
+SI_ORP_SAP.A602_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A602_hv
+SI_ORP_SAP.A602_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A603_ct
+SI_ORP_SAP.A603_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A603_hv
+SI_ORP_SAP.A603_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A604_ct
+SI_ORP_SAP.A604_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A604_hv
+SI_ORP_SAP.A604_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A605_ct
+SI_ORP_SAP.A605_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A605_hv
+SI_ORP_SAP.A605_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A606_ct
+SI_ORP_SAP.A606_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A606_hv
+SI_ORP_SAP.A606_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A607_ct
+SI_ORP_SAP.A607_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A607_hv
+SI_ORP_SAP.A607_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A608_ct
+SI_ORP_SAP.A608_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A608_hv
+SI_ORP_SAP.A608_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A609_ct
+SI_ORP_SAP.A609_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A609_hv
+SI_ORP_SAP.A609_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A610_ct
+SI_ORP_SAP.A610_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A610_hv
+SI_ORP_SAP.A610_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A611_ct
+SI_ORP_SAP.A611_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A611_hv
+SI_ORP_SAP.A611_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A612_ct
+SI_ORP_SAP.A612_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A612_hv
+SI_ORP_SAP.A612_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A613_ct
+SI_ORP_SAP.A613_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A613_hv
+SI_ORP_SAP.A613_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A614_ct
+SI_ORP_SAP.A614_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A614_hv
+SI_ORP_SAP.A614_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A615_ct
+SI_ORP_SAP.A615_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A615_hv
+SI_ORP_SAP.A615_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A616_ct
+SI_ORP_SAP.A616_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A616_hv
+SI_ORP_SAP.A616_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A618_ct
+SI_ORP_SAP.A618_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A618_hv
+SI_ORP_SAP.A618_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A619_ct
+SI_ORP_SAP.A619_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A619_hv
+SI_ORP_SAP.A619_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A620_ct
+SI_ORP_SAP.A620_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A620_hv
+SI_ORP_SAP.A620_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A621_ct
+SI_ORP_SAP.A621_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A621_hv
+SI_ORP_SAP.A621_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A622_ct
+SI_ORP_SAP.A622_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A622_hv
+SI_ORP_SAP.A622_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A623_ct
+SI_ORP_SAP.A623_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A623_hv
+SI_ORP_SAP.A623_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A624_ct
+SI_ORP_SAP.A624_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A624_hv
+SI_ORP_SAP.A624_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A625_ct
+SI_ORP_SAP.A625_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A625_hv
+SI_ORP_SAP.A625_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A626_ct
+SI_ORP_SAP.A626_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A626_hv
+SI_ORP_SAP.A626_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A627_ct
+SI_ORP_SAP.A627_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A627_hv
+SI_ORP_SAP.A627_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A628_ct
+SI_ORP_SAP.A628_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A628_hv
+SI_ORP_SAP.A628_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A629_ct
+SI_ORP_SAP.A629_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A629_hv
+SI_ORP_SAP.A629_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A630_ct
+SI_ORP_SAP.A630_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A630_hv
+SI_ORP_SAP.A630_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A631_ct
+SI_ORP_SAP.A631_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A631_hv
+SI_ORP_SAP.A631_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A632_ct
+SI_ORP_SAP.A632_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A632_hv
+SI_ORP_SAP.A632_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A633_ct
+SI_ORP_SAP.A633_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A633_hv
+SI_ORP_SAP.A633_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A634_ct
+SI_ORP_SAP.A634_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A634_hv
+SI_ORP_SAP.A634_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A635_ct
+SI_ORP_SAP.A635_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A635_hv
+SI_ORP_SAP.A635_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A636_ct
+SI_ORP_SAP.A636_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A636_hv
+SI_ORP_SAP.A636_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A639_ct
+SI_ORP_SAP.A639_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A639_hv
+SI_ORP_SAP.A639_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A640_ct
+SI_ORP_SAP.A640_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A640_hv
+SI_ORP_SAP.A640_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A641_ct
+SI_ORP_SAP.A641_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A641_hv
+SI_ORP_SAP.A641_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A642_ct
+SI_ORP_SAP.A642_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A642_hv
+SI_ORP_SAP.A642_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A645_ct
+SI_ORP_SAP.A645_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A645_hv
+SI_ORP_SAP.A645_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A647_ct
+SI_ORP_SAP.A647_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A647_hv
+SI_ORP_SAP.A647_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A648_ct
+SI_ORP_SAP.A648_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A648_hv
+SI_ORP_SAP.A648_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A649_ct
+SI_ORP_SAP.A649_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A649_hv
+SI_ORP_SAP.A649_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A650_ct
+SI_ORP_SAP.A650_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A650_hv
+SI_ORP_SAP.A650_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A651_ct
+SI_ORP_SAP.A651_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A651_hv
+SI_ORP_SAP.A651_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A652_ct
+SI_ORP_SAP.A652_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A652_hv
+SI_ORP_SAP.A652_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A654_ct
+SI_ORP_SAP.A654_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A654_hv
+SI_ORP_SAP.A654_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A655_ct
+SI_ORP_SAP.A655_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A655_hv
+SI_ORP_SAP.A655_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A656_ct
+SI_ORP_SAP.A656_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A656_hv
+SI_ORP_SAP.A656_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A657_ct
+SI_ORP_SAP.A657_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A657_hv
+SI_ORP_SAP.A657_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A660_ct
+SI_ORP_SAP.A660_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A660_hv
+SI_ORP_SAP.A660_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A661_ct
+SI_ORP_SAP.A661_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A661_hv
+SI_ORP_SAP.A661_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A662_ct
+SI_ORP_SAP.A662_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A662_hv
+SI_ORP_SAP.A662_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A663_ct
+SI_ORP_SAP.A663_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A663_hv
+SI_ORP_SAP.A663_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A664_ct
+SI_ORP_SAP.A664_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A664_hv
+SI_ORP_SAP.A664_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A665_ct
+SI_ORP_SAP.A665_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A665_hv
+SI_ORP_SAP.A665_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A666_ct
+SI_ORP_SAP.A666_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A666_hv
+SI_ORP_SAP.A666_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A667_ct
+SI_ORP_SAP.A667_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A667_hv
+SI_ORP_SAP.A667_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A668_ct
+SI_ORP_SAP.A668_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A668_hv
+SI_ORP_SAP.A668_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A674_ct
+SI_ORP_SAP.A674_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A674_hv
+SI_ORP_SAP.A674_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A676_ct
+SI_ORP_SAP.A676_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A676_hv
+SI_ORP_SAP.A676_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A677_ct
+SI_ORP_SAP.A677_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A677_hv
+SI_ORP_SAP.A677_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A678_ct
+SI_ORP_SAP.A678_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A678_hv
+SI_ORP_SAP.A678_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A679_ct
+SI_ORP_SAP.A679_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A679_hv
+SI_ORP_SAP.A679_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A682_ct
+SI_ORP_SAP.A682_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A682_hv
+SI_ORP_SAP.A682_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A700_ct
+SI_ORP_SAP.A700_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A700_hv
+SI_ORP_SAP.A700_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A701_ct
+SI_ORP_SAP.A701_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A701_hv
+SI_ORP_SAP.A701_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A702_ct
+SI_ORP_SAP.A702_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A702_hv
+SI_ORP_SAP.A702_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A703_ct
+SI_ORP_SAP.A703_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A703_hv
+SI_ORP_SAP.A703_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A705_ct
+SI_ORP_SAP.A705_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A705_hv
+SI_ORP_SAP.A705_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A706_ct
+SI_ORP_SAP.A706_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A706_hv
+SI_ORP_SAP.A706_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A707_ct
+SI_ORP_SAP.A707_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A707_hv
+SI_ORP_SAP.A707_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A712_ct
+SI_ORP_SAP.A712_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A712_hv
+SI_ORP_SAP.A712_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A713_ct
+SI_ORP_SAP.A713_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A713_hv
+SI_ORP_SAP.A713_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A714_ct
+SI_ORP_SAP.A714_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A714_hv
+SI_ORP_SAP.A714_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A715_ct
+SI_ORP_SAP.A715_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A715_hv
+SI_ORP_SAP.A715_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A719_ct
+SI_ORP_SAP.A719_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A719_hv
+SI_ORP_SAP.A719_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A720_ct
+SI_ORP_SAP.A720_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A720_hv
+SI_ORP_SAP.A720_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A721_ct
+SI_ORP_SAP.A721_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A721_hv
+SI_ORP_SAP.A721_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A907_ct
+SI_ORP_SAP.A907_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A907_hv
+SI_ORP_SAP.A907_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A910_ct
+SI_ORP_SAP.A910_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A910_hv
+SI_ORP_SAP.A910_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A911_ct
+SI_ORP_SAP.A911_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A911_hv
+SI_ORP_SAP.A911_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A912_ct
+SI_ORP_SAP.A912_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A912_hv
+SI_ORP_SAP.A912_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A913_ct
+SI_ORP_SAP.A913_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A913_hv
+SI_ORP_SAP.A913_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A914_ct
+SI_ORP_SAP.A914_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A914_hv
+SI_ORP_SAP.A914_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A918_ct
+SI_ORP_SAP.A918_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A918_hv
+SI_ORP_SAP.A918_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A920_ct
+SI_ORP_SAP.A920_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A920_hv
+SI_ORP_SAP.A920_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A922_ct
+SI_ORP_SAP.A922_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A922_hv
+SI_ORP_SAP.A922_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A923_ct
+SI_ORP_SAP.A923_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A923_hv
+SI_ORP_SAP.A923_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A924_ct
+SI_ORP_SAP.A924_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A924_hv
+SI_ORP_SAP.A924_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A947_ct
+SI_ORP_SAP.A947_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A947_hv
+SI_ORP_SAP.A947_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A948_ct
+SI_ORP_SAP.A948_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A948_hv
+SI_ORP_SAP.A948_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A949_ct
+SI_ORP_SAP.A949_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A949_hv
+SI_ORP_SAP.A949_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A951_ct
+SI_ORP_SAP.A951_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A951_hv
+SI_ORP_SAP.A951_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A952_ct
+SI_ORP_SAP.A952_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A952_hv
+SI_ORP_SAP.A952_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A953_ct
+SI_ORP_SAP.A953_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A953_hv
+SI_ORP_SAP.A953_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A954_ct
+SI_ORP_SAP.A954_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A954_hv
+SI_ORP_SAP.A954_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A955_ct
+SI_ORP_SAP.A955_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A955_hv
+SI_ORP_SAP.A955_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A957_ct
+SI_ORP_SAP.A957_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A957_hv
+SI_ORP_SAP.A957_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A958_ct
+SI_ORP_SAP.A958_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A958_hv
+SI_ORP_SAP.A958_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A959_ct
+SI_ORP_SAP.A959_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A959_hv
+SI_ORP_SAP.A959_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A960_ct
+SI_ORP_SAP.A960_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A960_hv
+SI_ORP_SAP.A960_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A961_ct
+SI_ORP_SAP.A961_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A961_hv
+SI_ORP_SAP.A961_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A962_ct
+SI_ORP_SAP.A962_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A962_hv
+SI_ORP_SAP.A962_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A974_ct
+SI_ORP_SAP.A974_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A974_hv
+SI_ORP_SAP.A974_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A975_ct
+SI_ORP_SAP.A975_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A975_hv
+SI_ORP_SAP.A975_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A976_ct
+SI_ORP_SAP.A976_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A976_hv
+SI_ORP_SAP.A976_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A977_ct
+SI_ORP_SAP.A977_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A977_hv
+SI_ORP_SAP.A977_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A978_ct
+SI_ORP_SAP.A978_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A978_hv
+SI_ORP_SAP.A978_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A979_ct
+SI_ORP_SAP.A979_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A979_hv
+SI_ORP_SAP.A979_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A980_ct
+SI_ORP_SAP.A980_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A980_hv
+SI_ORP_SAP.A980_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A981_ct
+SI_ORP_SAP.A981_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A981_hv
+SI_ORP_SAP.A981_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A982_ct
+SI_ORP_SAP.A982_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A982_hv
+SI_ORP_SAP.A982_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A983_ct
+SI_ORP_SAP.A983_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A983_hv
+SI_ORP_SAP.A983_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A985_ct
+SI_ORP_SAP.A985_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A985_hv
+SI_ORP_SAP.A985_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A988_ct
+SI_ORP_SAP.A988_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.A988_hv
+SI_ORP_SAP.A988_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ADCP_ct
+SI_ORP_SAP.ADCP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ADCP_hv
+SI_ORP_SAP.ADCP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ADR12_ct
+SI_ORP_SAP.ADR12_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ADR12_hv
+SI_ORP_SAP.ADR12_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ADR2_ct
+SI_ORP_SAP.ADR2_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ADR2_hv
+SI_ORP_SAP.ADR2_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ADR3_ct
+SI_ORP_SAP.ADR3_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ADR3_hv
+SI_ORP_SAP.ADR3_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ADR6_ct
+SI_ORP_SAP.ADR6_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ADR6_hv
+SI_ORP_SAP.ADR6_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ADRC_ct
+SI_ORP_SAP.ADRC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ADRC_hv
+SI_ORP_SAP.ADRC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ADRP_ct
+SI_ORP_SAP.ADRP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ADRP_hv
+SI_ORP_SAP.ADRP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ANLA_ct
+SI_ORP_SAP.ANLA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ANLA_hv
+SI_ORP_SAP.ANLA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.AUFK_ct
+SI_ORP_SAP.AUFK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.AUFK_hv
+SI_ORP_SAP.AUFK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.AUSP_ct
+SI_ORP_SAP.AUSP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.AUSP_hv
+SI_ORP_SAP.AUSP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.B951_ct
+SI_ORP_SAP.B951_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.B951_hv
+SI_ORP_SAP.B951_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BIWTAI1_ct
+SI_ORP_SAP.BIWTAI1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BIWTAI1_hv
+SI_ORP_SAP.BIWTAI1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BKORM_ct
+SI_ORP_SAP.BKORM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BKORM_hv
+SI_ORP_SAP.BKORM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BKPF_hv
+SI_ORP_SAP.BKPF_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BP1010_ct
+SI_ORP_SAP.BP1010_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BP1010_hv
+SI_ORP_SAP.BP1010_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BP3100_ct
+SI_ORP_SAP.BP3100_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BP3100_hv
+SI_ORP_SAP.BP3100_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BPJA_ct
+SI_ORP_SAP.BPJA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BPJA_hv
+SI_ORP_SAP.BPJA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BPXX_VTYPE_ct
+SI_ORP_SAP.BPXX_VTYPE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BPXX_VTYPE_hv
+SI_ORP_SAP.BPXX_VTYPE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BSAD_ct
+SI_ORP_SAP.BSAD_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BSAD_hv
+SI_ORP_SAP.BSAD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BSAK_ct
+SI_ORP_SAP.BSAK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BSAK_hv
+SI_ORP_SAP.BSAK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BSEG_ct
+SI_ORP_SAP.BSEG_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BSEG_hv
+SI_ORP_SAP.BSEG_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BSID_ct
+SI_ORP_SAP.BSID_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BSID_hv
+SI_ORP_SAP.BSID_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BSIK_ct
+SI_ORP_SAP.BSIK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BSIK_hv
+SI_ORP_SAP.BSIK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BSIP_ct
+SI_ORP_SAP.BSIP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BSIP_hv
+SI_ORP_SAP.BSIP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BUT000_ct
+SI_ORP_SAP.BUT000_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BUT000_hv
+SI_ORP_SAP.BUT000_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BUT050_ct
+SI_ORP_SAP.BUT050_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BUT050_hv
+SI_ORP_SAP.BUT050_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BWCVSYSTAT_ct
+SI_ORP_SAP.BWCVSYSTAT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.BWCVSYSTAT_hv
+SI_ORP_SAP.BWCVSYSTAT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CABNT_ct
+SI_ORP_SAP.CABNT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CABNT_hv
+SI_ORP_SAP.CABNT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CABN_ct
+SI_ORP_SAP.CABN_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CABN_hv
+SI_ORP_SAP.CABN_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CAWN_ct
+SI_ORP_SAP.CAWN_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CAWN_hv
+SI_ORP_SAP.CAWN_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CDHDR_ct
+SI_ORP_SAP.CDHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CDHDR_hv
+SI_ORP_SAP.CDHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CDPOS_ct
+SI_ORP_SAP.CDPOS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CDPOS_hv
+SI_ORP_SAP.CDPOS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CE11000_ct
+SI_ORP_SAP.CE11000_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CE11000_hv
+SI_ORP_SAP.CE11000_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CE21000_ct
+SI_ORP_SAP.CE21000_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CE21000_hv
+SI_ORP_SAP.CE21000_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CE41000_ACCT_ct
+SI_ORP_SAP.CE41000_ACCT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CE41000_ACCT_hv
+SI_ORP_SAP.CE41000_ACCT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CEPCT_ct
+SI_ORP_SAP.CEPCT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CEPCT_hv
+SI_ORP_SAP.CEPCT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CEPC_ct
+SI_ORP_SAP.CEPC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CEPC_hv
+SI_ORP_SAP.CEPC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CKPH_ct
+SI_ORP_SAP.CKPH_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CKPH_hv
+SI_ORP_SAP.CKPH_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COBK_ct
+SI_ORP_SAP.COBK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COBK_hv
+SI_ORP_SAP.COBK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COEJ_ct
+SI_ORP_SAP.COEJ_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COEJ_hv
+SI_ORP_SAP.COEJ_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COEP_ct
+SI_ORP_SAP.COEP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COEP_hv
+SI_ORP_SAP.COEP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COIX_DATA40_ct
+SI_ORP_SAP.COIX_DATA40_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COIX_DATA40_hv
+SI_ORP_SAP.COIX_DATA40_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COIX_ct
+SI_ORP_SAP.COIX_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COIX_hv
+SI_ORP_SAP.COIX_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COOI_ct
+SI_ORP_SAP.COOI_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COOI_hv
+SI_ORP_SAP.COOI_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COSP_VTYPE_ct
+SI_ORP_SAP.COSP_VTYPE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COSP_VTYPE_hv
+SI_ORP_SAP.COSP_VTYPE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COSP_ct
+SI_ORP_SAP.COSP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COSP_hv
+SI_ORP_SAP.COSP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COSR_ct
+SI_ORP_SAP.COSR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COSR_hv
+SI_ORP_SAP.COSR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COSS_ct
+SI_ORP_SAP.COSS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.COSS_hv
+SI_ORP_SAP.COSS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CSKA_ct
+SI_ORP_SAP.CSKA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CSKA_hv
+SI_ORP_SAP.CSKA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CSKB_ct
+SI_ORP_SAP.CSKB_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CSKB_hv
+SI_ORP_SAP.CSKB_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CSKS_ct
+SI_ORP_SAP.CSKS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CSKS_hv
+SI_ORP_SAP.CSKS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CSKT_ct
+SI_ORP_SAP.CSKT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CSKT_hv
+SI_ORP_SAP.CSKT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CSKU_ct
+SI_ORP_SAP.CSKU_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.CSKU_hv
+SI_ORP_SAP.CSKU_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.DATAMANAGEMENT_DATAMARTARTIFACTS_TARGETTABLES_BILLING_BILLING_ITEM_FACT_hv
+SI_ORP_SAP.DATAMANAGEMENT_DATAMARTARTIFACTS_TARGETTABLES_BILLING_BILLING_ITEM_FACT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.DD07L_ct
+SI_ORP_SAP.DD07L_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.DD07L_hv
+SI_ORP_SAP.DD07L_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.DD07T_ct
+SI_ORP_SAP.DD07T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.DD07T_hv
+SI_ORP_SAP.DD07T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.DDDDLNUMTYPES_hv
+SI_ORP_SAP.DDDDLNUMTYPES_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EDPP1_ct
+SI_ORP_SAP.EDPP1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EDPP1_hv
+SI_ORP_SAP.EDPP1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EINA_ct
+SI_ORP_SAP.EINA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EINA_hv
+SI_ORP_SAP.EINA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EINE_ct
+SI_ORP_SAP.EINE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EINE_hv
+SI_ORP_SAP.EINE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKBEH_ct
+SI_ORP_SAP.EKBEH_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKBEH_hv
+SI_ORP_SAP.EKBEH_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKBE_ct
+SI_ORP_SAP.EKBE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKBE_hv
+SI_ORP_SAP.EKBE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKES_ct
+SI_ORP_SAP.EKES_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKES_hv
+SI_ORP_SAP.EKES_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKET_ct
+SI_ORP_SAP.EKET_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKET_hv
+SI_ORP_SAP.EKET_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKKN_ct
+SI_ORP_SAP.EKKN_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKKN_hv
+SI_ORP_SAP.EKKN_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKKO_ct
+SI_ORP_SAP.EKKO_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKKO_hv
+SI_ORP_SAP.EKKO_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKPA_ct
+SI_ORP_SAP.EKPA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKPA_hv
+SI_ORP_SAP.EKPA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKPO_ct
+SI_ORP_SAP.EKPO_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKPO_hv
+SI_ORP_SAP.EKPO_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKPV_ct
+SI_ORP_SAP.EKPV_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EKPV_hv
+SI_ORP_SAP.EKPV_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EMBK_ct
+SI_ORP_SAP.EMBK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EMBK_hv
+SI_ORP_SAP.EMBK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EREV_ct
+SI_ORP_SAP.EREV_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.EREV_hv
+SI_ORP_SAP.EREV_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ETXDCH_ct
+SI_ORP_SAP.ETXDCH_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ETXDCH_hv
+SI_ORP_SAP.ETXDCH_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ETXDCI_ct
+SI_ORP_SAP.ETXDCI_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ETXDCI_hv
+SI_ORP_SAP.ETXDCI_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ETXDCJ_ct
+SI_ORP_SAP.ETXDCJ_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ETXDCJ_hv
+SI_ORP_SAP.ETXDCJ_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FAGLFLEXA_ct
+SI_ORP_SAP.FAGLFLEXA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FAGLFLEXA_hv
+SI_ORP_SAP.FAGLFLEXA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FAGLFLEXT_ct
+SI_ORP_SAP.FAGLFLEXT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FAGLFLEXT_hv
+SI_ORP_SAP.FAGLFLEXT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FAGL_SEGMT_ct
+SI_ORP_SAP.FAGL_SEGMT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FAGL_SEGMT_hv
+SI_ORP_SAP.FAGL_SEGMT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FAGL_SEGM_ct
+SI_ORP_SAP.FAGL_SEGM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FAGL_SEGM_hv
+SI_ORP_SAP.FAGL_SEGM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FAGL_TLDGRPT_ct
+SI_ORP_SAP.FAGL_TLDGRPT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FAGL_TLDGRPT_hv
+SI_ORP_SAP.FAGL_TLDGRPT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FAGL_TLDGRP_ct
+SI_ORP_SAP.FAGL_TLDGRP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FAGL_TLDGRP_hv
+SI_ORP_SAP.FAGL_TLDGRP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FEBEP_ct
+SI_ORP_SAP.FEBEP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FEBEP_hv
+SI_ORP_SAP.FEBEP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FEBKO_ct
+SI_ORP_SAP.FEBKO_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FEBKO_hv
+SI_ORP_SAP.FEBKO_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FEBRE_ct
+SI_ORP_SAP.FEBRE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FEBRE_hv
+SI_ORP_SAP.FEBRE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FPLA_ct
+SI_ORP_SAP.FPLA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FPLA_hv
+SI_ORP_SAP.FPLA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FRET_ct
+SI_ORP_SAP.FRET_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.FRET_hv
+SI_ORP_SAP.FRET_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMAKT_ct
+SI_ORP_SAP.IMAKT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMAKT_hv
+SI_ORP_SAP.IMAKT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMAKZ_ct
+SI_ORP_SAP.IMAKZ_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMAKZ_hv
+SI_ORP_SAP.IMAKZ_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMAK_ct
+SI_ORP_SAP.IMAK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMAK_hv
+SI_ORP_SAP.IMAK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMPR_ct
+SI_ORP_SAP.IMPR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMPR_hv
+SI_ORP_SAP.IMPR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMPU_ct
+SI_ORP_SAP.IMPU_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMPU_hv
+SI_ORP_SAP.IMPU_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMTP_ct
+SI_ORP_SAP.IMTP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMTP_hv
+SI_ORP_SAP.IMTP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMTT_ct
+SI_ORP_SAP.IMTT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMTT_hv
+SI_ORP_SAP.IMTT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMZO_ct
+SI_ORP_SAP.IMZO_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IMZO_hv
+SI_ORP_SAP.IMZO_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.INOB_ct
+SI_ORP_SAP.INOB_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.INOB_hv
+SI_ORP_SAP.INOB_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GCOND_ct
+SI_ORP_SAP.IRM_GCOND_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GCOND_hv
+SI_ORP_SAP.IRM_GCOND_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GCRHDR_ct
+SI_ORP_SAP.IRM_GCRHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GCRHDR_hv
+SI_ORP_SAP.IRM_GCRHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GCRITM_ct
+SI_ORP_SAP.IRM_GCRITM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GCRITM_hv
+SI_ORP_SAP.IRM_GCRITM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GCUCTG_ct
+SI_ORP_SAP.IRM_GCUCTG_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GCUCTG_hv
+SI_ORP_SAP.IRM_GCUCTG_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GCULHDR_ct
+SI_ORP_SAP.IRM_GCULHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GCULHDR_hv
+SI_ORP_SAP.IRM_GCULHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPLDESCR_ct
+SI_ORP_SAP.IRM_GPLDESCR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPLDESCR_hv
+SI_ORP_SAP.IRM_GPLDESCR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPLHDR_ct
+SI_ORP_SAP.IRM_GPLHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPLHDR_hv
+SI_ORP_SAP.IRM_GPLHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPLPRD_ct
+SI_ORP_SAP.IRM_GPLPRD_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPLPRD_hv
+SI_ORP_SAP.IRM_GPLPRD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0001_ct
+SI_ORP_SAP.IRM_GPRS0001_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0001_hv
+SI_ORP_SAP.IRM_GPRS0001_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0002_ct
+SI_ORP_SAP.IRM_GPRS0002_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0002_hv
+SI_ORP_SAP.IRM_GPRS0002_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0003_ct
+SI_ORP_SAP.IRM_GPRS0003_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0003_hv
+SI_ORP_SAP.IRM_GPRS0003_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0012_ct
+SI_ORP_SAP.IRM_GPRS0012_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0012_hv
+SI_ORP_SAP.IRM_GPRS0012_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0013_ct
+SI_ORP_SAP.IRM_GPRS0013_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0013_hv
+SI_ORP_SAP.IRM_GPRS0013_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0021_ct
+SI_ORP_SAP.IRM_GPRS0021_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0021_hv
+SI_ORP_SAP.IRM_GPRS0021_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0031_ct
+SI_ORP_SAP.IRM_GPRS0031_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0031_hv
+SI_ORP_SAP.IRM_GPRS0031_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0111_ct
+SI_ORP_SAP.IRM_GPRS0111_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0111_hv
+SI_ORP_SAP.IRM_GPRS0111_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0112_ct
+SI_ORP_SAP.IRM_GPRS0112_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GPRS0112_hv
+SI_ORP_SAP.IRM_GPRS0112_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GRCACON_ct
+SI_ORP_SAP.IRM_GRCACON_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GRCACON_hv
+SI_ORP_SAP.IRM_GRCACON_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GRCAHDR_ct
+SI_ORP_SAP.IRM_GRCAHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GRCAHDR_hv
+SI_ORP_SAP.IRM_GRCAHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GRCAIED_ct
+SI_ORP_SAP.IRM_GRCAIED_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GRCAIED_hv
+SI_ORP_SAP.IRM_GRCAIED_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GRCAITM_ct
+SI_ORP_SAP.IRM_GRCAITM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GRCAITM_hv
+SI_ORP_SAP.IRM_GRCAITM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GVNCTG_ct
+SI_ORP_SAP.IRM_GVNCTG_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GVNCTG_hv
+SI_ORP_SAP.IRM_GVNCTG_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GVNLHDR_ct
+SI_ORP_SAP.IRM_GVNLHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_GVNLHDR_hv
+SI_ORP_SAP.IRM_GVNLHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP001RD_ct
+SI_ORP_SAP.IRM_IP001RD_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP001RD_hv
+SI_ORP_SAP.IRM_IP001RD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP001RS_ct
+SI_ORP_SAP.IRM_IP001RS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP001RS_hv
+SI_ORP_SAP.IRM_IP001RS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP001R_ct
+SI_ORP_SAP.IRM_IP001R_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP001R_hv
+SI_ORP_SAP.IRM_IP001R_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP001S_ct
+SI_ORP_SAP.IRM_IP001S_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP001S_hv
+SI_ORP_SAP.IRM_IP001S_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP001_ct
+SI_ORP_SAP.IRM_IP001_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP001_hv
+SI_ORP_SAP.IRM_IP001_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP002RS_ct
+SI_ORP_SAP.IRM_IP002RS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP002RS_hv
+SI_ORP_SAP.IRM_IP002RS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP002R_ct
+SI_ORP_SAP.IRM_IP002R_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP002R_hv
+SI_ORP_SAP.IRM_IP002R_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP002S_ct
+SI_ORP_SAP.IRM_IP002S_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP002S_hv
+SI_ORP_SAP.IRM_IP002S_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP002_ct
+SI_ORP_SAP.IRM_IP002_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP002_hv
+SI_ORP_SAP.IRM_IP002_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP003RS_ct
+SI_ORP_SAP.IRM_IP003RS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP003RS_hv
+SI_ORP_SAP.IRM_IP003RS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP003R_ct
+SI_ORP_SAP.IRM_IP003R_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP003R_hv
+SI_ORP_SAP.IRM_IP003R_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP003S_ct
+SI_ORP_SAP.IRM_IP003S_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP003S_hv
+SI_ORP_SAP.IRM_IP003S_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP003_ct
+SI_ORP_SAP.IRM_IP003_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP003_hv
+SI_ORP_SAP.IRM_IP003_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP004RS_ct
+SI_ORP_SAP.IRM_IP004RS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP004RS_hv
+SI_ORP_SAP.IRM_IP004RS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP004R_ct
+SI_ORP_SAP.IRM_IP004R_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP004R_hv
+SI_ORP_SAP.IRM_IP004R_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP004S_ct
+SI_ORP_SAP.IRM_IP004S_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP004S_hv
+SI_ORP_SAP.IRM_IP004S_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP004_ct
+SI_ORP_SAP.IRM_IP004_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP004_hv
+SI_ORP_SAP.IRM_IP004_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP005RS_ct
+SI_ORP_SAP.IRM_IP005RS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP005RS_hv
+SI_ORP_SAP.IRM_IP005RS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP005R_ct
+SI_ORP_SAP.IRM_IP005R_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP005R_hv
+SI_ORP_SAP.IRM_IP005R_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP005S_ct
+SI_ORP_SAP.IRM_IP005S_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP005S_hv
+SI_ORP_SAP.IRM_IP005S_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP005_ct
+SI_ORP_SAP.IRM_IP005_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP005_hv
+SI_ORP_SAP.IRM_IP005_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP006RS_ct
+SI_ORP_SAP.IRM_IP006RS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP006RS_hv
+SI_ORP_SAP.IRM_IP006RS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP006R_ct
+SI_ORP_SAP.IRM_IP006R_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP006R_hv
+SI_ORP_SAP.IRM_IP006R_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP006S_ct
+SI_ORP_SAP.IRM_IP006S_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP006S_hv
+SI_ORP_SAP.IRM_IP006S_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP006_ct
+SI_ORP_SAP.IRM_IP006_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP006_hv
+SI_ORP_SAP.IRM_IP006_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP007RS_ct
+SI_ORP_SAP.IRM_IP007RS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP007RS_hv
+SI_ORP_SAP.IRM_IP007RS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP007R_ct
+SI_ORP_SAP.IRM_IP007R_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP007R_hv
+SI_ORP_SAP.IRM_IP007R_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP007S_ct
+SI_ORP_SAP.IRM_IP007S_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP007S_hv
+SI_ORP_SAP.IRM_IP007S_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP007_ct
+SI_ORP_SAP.IRM_IP007_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP007_hv
+SI_ORP_SAP.IRM_IP007_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP010RS_ct
+SI_ORP_SAP.IRM_IP010RS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP010RS_hv
+SI_ORP_SAP.IRM_IP010RS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP1IT_ct
+SI_ORP_SAP.IRM_IP1IT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP1IT_hv
+SI_ORP_SAP.IRM_IP1IT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP4IT_ct
+SI_ORP_SAP.IRM_IP4IT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IP4IT_hv
+SI_ORP_SAP.IRM_IP4IT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPACTRSINDX_ct
+SI_ORP_SAP.IRM_IPACTRSINDX_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPACTRSINDX_hv
+SI_ORP_SAP.IRM_IPACTRSINDX_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPACTRS_ct
+SI_ORP_SAP.IRM_IPACTRS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPACTRS_hv
+SI_ORP_SAP.IRM_IPACTRS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPARHDR_ct
+SI_ORP_SAP.IRM_IPARHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPARHDR_hv
+SI_ORP_SAP.IRM_IPARHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPBCKCITM_ct
+SI_ORP_SAP.IRM_IPBCKCITM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPBCKCITM_hv
+SI_ORP_SAP.IRM_IPBCKCITM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPBCKHDR_ct
+SI_ORP_SAP.IRM_IPBCKHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPBCKHDR_hv
+SI_ORP_SAP.IRM_IPBCKHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPBCKITM_ct
+SI_ORP_SAP.IRM_IPBCKITM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPBCKITM_hv
+SI_ORP_SAP.IRM_IPBCKITM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPBKPFINDX_ct
+SI_ORP_SAP.IRM_IPBKPFINDX_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPBKPFINDX_hv
+SI_ORP_SAP.IRM_IPBKPFINDX_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPBKPF_ct
+SI_ORP_SAP.IRM_IPBKPF_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPBKPF_hv
+SI_ORP_SAP.IRM_IPBKPF_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBAPS_ct
+SI_ORP_SAP.IRM_IPCBAPS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBAPS_hv
+SI_ORP_SAP.IRM_IPCBAPS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBDFL_ct
+SI_ORP_SAP.IRM_IPCBDFL_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBDFL_hv
+SI_ORP_SAP.IRM_IPCBDFL_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBHDRL_ct
+SI_ORP_SAP.IRM_IPCBHDRL_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBHDRL_hv
+SI_ORP_SAP.IRM_IPCBHDRL_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBHDR_ct
+SI_ORP_SAP.IRM_IPCBHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBHDR_hv
+SI_ORP_SAP.IRM_IPCBHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBIMV_ct
+SI_ORP_SAP.IRM_IPCBIMV_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBIMV_hv
+SI_ORP_SAP.IRM_IPCBIMV_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBITM_ct
+SI_ORP_SAP.IRM_IPCBITM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBITM_hv
+SI_ORP_SAP.IRM_IPCBITM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBPTR_ct
+SI_ORP_SAP.IRM_IPCBPTR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBPTR_hv
+SI_ORP_SAP.IRM_IPCBPTR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBVSP_ct
+SI_ORP_SAP.IRM_IPCBVSP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCBVSP_hv
+SI_ORP_SAP.IRM_IPCBVSP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCRAPS_ct
+SI_ORP_SAP.IRM_IPCRAPS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCRAPS_hv
+SI_ORP_SAP.IRM_IPCRAPS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCRASP_ct
+SI_ORP_SAP.IRM_IPCRASP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCRASP_hv
+SI_ORP_SAP.IRM_IPCRASP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCRHDR_ct
+SI_ORP_SAP.IRM_IPCRHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCRHDR_hv
+SI_ORP_SAP.IRM_IPCRHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCRITM_ct
+SI_ORP_SAP.IRM_IPCRITM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPCRITM_hv
+SI_ORP_SAP.IRM_IPCRITM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPDAHDR_ct
+SI_ORP_SAP.IRM_IPDAHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPDAHDR_hv
+SI_ORP_SAP.IRM_IPDAHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPDRHDRT_ct
+SI_ORP_SAP.IRM_IPDRHDRT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPDRHDRT_hv
+SI_ORP_SAP.IRM_IPDRHDRT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPDRHDR_ct
+SI_ORP_SAP.IRM_IPDRHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPDRHDR_hv
+SI_ORP_SAP.IRM_IPDRHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPCHDR_ct
+SI_ORP_SAP.IRM_IPPCHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPCHDR_hv
+SI_ORP_SAP.IRM_IPPCHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPCITM_ct
+SI_ORP_SAP.IRM_IPPCITM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPCITM_hv
+SI_ORP_SAP.IRM_IPPCITM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPCRHDR_ct
+SI_ORP_SAP.IRM_IPPCRHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPCRHDR_hv
+SI_ORP_SAP.IRM_IPPCRHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPCRITM_ct
+SI_ORP_SAP.IRM_IPPCRITM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPCRITM_hv
+SI_ORP_SAP.IRM_IPPCRITM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPRAPS_ct
+SI_ORP_SAP.IRM_IPPRAPS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPRAPS_hv
+SI_ORP_SAP.IRM_IPPRAPS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPRASP_ct
+SI_ORP_SAP.IRM_IPPRASP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPRASP_hv
+SI_ORP_SAP.IRM_IPPRASP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPRASP_n_ct
+SI_ORP_SAP.IRM_IPPRASP_n_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPRDFL_ct
+SI_ORP_SAP.IRM_IPPRDFL_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPRDFL_hv
+SI_ORP_SAP.IRM_IPPRDFL_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPRHDRL_ct
+SI_ORP_SAP.IRM_IPPRHDRL_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPRHDRL_hv
+SI_ORP_SAP.IRM_IPPRHDRL_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPRHDR_ct
+SI_ORP_SAP.IRM_IPPRHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPRHDR_hv
+SI_ORP_SAP.IRM_IPPRHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPRITM_ct
+SI_ORP_SAP.IRM_IPPRITM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_IPPRITM_hv
+SI_ORP_SAP.IRM_IPPRITM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCBGC_ct
+SI_ORP_SAP.IRM_PCBGC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCBGC_hv
+SI_ORP_SAP.IRM_PCBGC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCBGP_ct
+SI_ORP_SAP.IRM_PCBGP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCBGP_hv
+SI_ORP_SAP.IRM_PCBGP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCBLK_ct
+SI_ORP_SAP.IRM_PCBLK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCBLK_hv
+SI_ORP_SAP.IRM_PCBLK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCCBLKM_ct
+SI_ORP_SAP.IRM_PCCBLKM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCCBLKM_hv
+SI_ORP_SAP.IRM_PCCBLKM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCCBLKVC_ct
+SI_ORP_SAP.IRM_PCCBLKVC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCCBLKVC_hv
+SI_ORP_SAP.IRM_PCCBLKVC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCCBLKVO_ct
+SI_ORP_SAP.IRM_PCCBLKVO_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCCBLKVO_hv
+SI_ORP_SAP.IRM_PCCBLKVO_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCCBLK_ct
+SI_ORP_SAP.IRM_PCCBLK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCCBLK_hv
+SI_ORP_SAP.IRM_PCCBLK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCCORG_ct
+SI_ORP_SAP.IRM_PCCORG_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCCORG_hv
+SI_ORP_SAP.IRM_PCCORG_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCCUS_ct
+SI_ORP_SAP.IRM_PCCUS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCCUS_hv
+SI_ORP_SAP.IRM_PCCUS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCECS_ct
+SI_ORP_SAP.IRM_PCECS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCECS_hv
+SI_ORP_SAP.IRM_PCECS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCEPD_ct
+SI_ORP_SAP.IRM_PCEPD_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCEPD_hv
+SI_ORP_SAP.IRM_PCEPD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCEPLC_ct
+SI_ORP_SAP.IRM_PCEPLC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCEPLC_hv
+SI_ORP_SAP.IRM_PCEPLC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCEVR_ct
+SI_ORP_SAP.IRM_PCEVR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCEVR_hv
+SI_ORP_SAP.IRM_PCEVR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCHDR_ct
+SI_ORP_SAP.IRM_PCHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCHDR_hv
+SI_ORP_SAP.IRM_PCHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCLOADBGC_ct
+SI_ORP_SAP.IRM_PCLOADBGC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCLOADBGC_hv
+SI_ORP_SAP.IRM_PCLOADBGC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCLOADCUS_ct
+SI_ORP_SAP.IRM_PCLOADCUS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCLOADCUS_hv
+SI_ORP_SAP.IRM_PCLOADCUS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCLOADHDR_ct
+SI_ORP_SAP.IRM_PCLOADHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCLOADHDR_hv
+SI_ORP_SAP.IRM_PCLOADHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCLOADITM_ct
+SI_ORP_SAP.IRM_PCLOADITM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCLOADITM_hv
+SI_ORP_SAP.IRM_PCLOADITM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCNSP_ct
+SI_ORP_SAP.IRM_PCNSP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCNSP_hv
+SI_ORP_SAP.IRM_PCNSP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCORGVD_ct
+SI_ORP_SAP.IRM_PCORGVD_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCORGVD_hv
+SI_ORP_SAP.IRM_PCORGVD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCPRD_ct
+SI_ORP_SAP.IRM_PCPRD_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCPRD_hv
+SI_ORP_SAP.IRM_PCPRD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSBGC_ct
+SI_ORP_SAP.IRM_PCSBGC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSBGC_hv
+SI_ORP_SAP.IRM_PCSBGC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSBGP_ct
+SI_ORP_SAP.IRM_PCSBGP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSBGP_hv
+SI_ORP_SAP.IRM_PCSBGP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSBLK_ct
+SI_ORP_SAP.IRM_PCSBLK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSBLK_hv
+SI_ORP_SAP.IRM_PCSBLK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSCBLKM_ct
+SI_ORP_SAP.IRM_PCSCBLKM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSCBLKM_hv
+SI_ORP_SAP.IRM_PCSCBLKM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSCBLKVC_ct
+SI_ORP_SAP.IRM_PCSCBLKVC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSCBLKVC_hv
+SI_ORP_SAP.IRM_PCSCBLKVC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSCBLKVO_ct
+SI_ORP_SAP.IRM_PCSCBLKVO_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSCBLKVO_hv
+SI_ORP_SAP.IRM_PCSCBLKVO_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSCBLK_ct
+SI_ORP_SAP.IRM_PCSCBLK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSCBLK_hv
+SI_ORP_SAP.IRM_PCSCBLK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSCUS_ct
+SI_ORP_SAP.IRM_PCSCUS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSCUS_hv
+SI_ORP_SAP.IRM_PCSCUS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSFBGC_ct
+SI_ORP_SAP.IRM_PCSFBGC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSFBGC_hv
+SI_ORP_SAP.IRM_PCSFBGC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSFPRD_hv
+SI_ORP_SAP.IRM_PCSFPRD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSHDR_ct
+SI_ORP_SAP.IRM_PCSHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSHDR_hv
+SI_ORP_SAP.IRM_PCSHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSPRD_ct
+SI_ORP_SAP.IRM_PCSPRD_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PCSPRD_hv
+SI_ORP_SAP.IRM_PCSPRD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PC_LINK_HDR_ct
+SI_ORP_SAP.IRM_PC_LINK_HDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_PC_LINK_HDR_hv
+SI_ORP_SAP.IRM_PC_LINK_HDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRPBKT_ct
+SI_ORP_SAP.IRM_TGCRPBKT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRPBKT_hv
+SI_ORP_SAP.IRM_TGCRPBKT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRPBK_ct
+SI_ORP_SAP.IRM_TGCRPBK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRPBK_hv
+SI_ORP_SAP.IRM_TGCRPBK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRRSNT_ct
+SI_ORP_SAP.IRM_TGCRRSNT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRRSNT_hv
+SI_ORP_SAP.IRM_TGCRRSNT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRRSN_ct
+SI_ORP_SAP.IRM_TGCRRSN_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRRSN_hv
+SI_ORP_SAP.IRM_TGCRRSN_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRRSRT_ct
+SI_ORP_SAP.IRM_TGCRRSRT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRRSRT_hv
+SI_ORP_SAP.IRM_TGCRRSRT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRRSR_ct
+SI_ORP_SAP.IRM_TGCRRSR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRRSR_hv
+SI_ORP_SAP.IRM_TGCRRSR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRSTGT_ct
+SI_ORP_SAP.IRM_TGCRSTGT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRSTGT_hv
+SI_ORP_SAP.IRM_TGCRSTGT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRSTG_ct
+SI_ORP_SAP.IRM_TGCRSTG_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRSTG_hv
+SI_ORP_SAP.IRM_TGCRSTG_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRTT_ct
+SI_ORP_SAP.IRM_TGCRTT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRTT_hv
+SI_ORP_SAP.IRM_TGCRTT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRT_ct
+SI_ORP_SAP.IRM_TGCRT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGCRT_hv
+SI_ORP_SAP.IRM_TGCRT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGFPHDRT_ct
+SI_ORP_SAP.IRM_TGFPHDRT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGFPHDRT_hv
+SI_ORP_SAP.IRM_TGFPHDRT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGPRAPS_ct
+SI_ORP_SAP.IRM_TGPRAPS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGPRAPS_hv
+SI_ORP_SAP.IRM_TGPRAPS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGRCARSNT_ct
+SI_ORP_SAP.IRM_TGRCARSNT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGRCARSNT_hv
+SI_ORP_SAP.IRM_TGRCARSNT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGRCARSN_ct
+SI_ORP_SAP.IRM_TGRCARSN_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGRCARSN_hv
+SI_ORP_SAP.IRM_TGRCARSN_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGRCATT_ct
+SI_ORP_SAP.IRM_TGRCATT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGRCATT_hv
+SI_ORP_SAP.IRM_TGRCATT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGRCAT_ct
+SI_ORP_SAP.IRM_TGRCAT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TGRCAT_hv
+SI_ORP_SAP.IRM_TGRCAT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPAGRUT_ct
+SI_ORP_SAP.IRM_TIPAGRUT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPAGRUT_hv
+SI_ORP_SAP.IRM_TIPAGRUT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPAGRU_ct
+SI_ORP_SAP.IRM_TIPAGRU_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPAGRU_hv
+SI_ORP_SAP.IRM_TIPAGRU_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPAOBJT_ct
+SI_ORP_SAP.IRM_TIPAOBJT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPAOBJT_hv
+SI_ORP_SAP.IRM_TIPAOBJT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPAOBJ_ct
+SI_ORP_SAP.IRM_TIPAOBJ_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPAOBJ_hv
+SI_ORP_SAP.IRM_TIPAOBJ_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPARTT_ct
+SI_ORP_SAP.IRM_TIPARTT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPARTT_hv
+SI_ORP_SAP.IRM_TIPARTT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPART_ct
+SI_ORP_SAP.IRM_TIPART_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPART_hv
+SI_ORP_SAP.IRM_TIPART_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPARVRSNT_ct
+SI_ORP_SAP.IRM_TIPARVRSNT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPARVRSNT_hv
+SI_ORP_SAP.IRM_TIPARVRSNT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPARVRSN_ct
+SI_ORP_SAP.IRM_TIPARVRSN_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPARVRSN_hv
+SI_ORP_SAP.IRM_TIPARVRSN_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPASGRUT_ct
+SI_ORP_SAP.IRM_TIPASGRUT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPASGRUT_hv
+SI_ORP_SAP.IRM_TIPASGRUT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPASGRU_ct
+SI_ORP_SAP.IRM_TIPASGRU_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPASGRU_hv
+SI_ORP_SAP.IRM_TIPASGRU_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPCIPCRTT_ct
+SI_ORP_SAP.IRM_TIPCIPCRTT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPCIPCRTT_hv
+SI_ORP_SAP.IRM_TIPCIPCRTT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPCIPCRT_ct
+SI_ORP_SAP.IRM_TIPCIPCRT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPCIPCRT_hv
+SI_ORP_SAP.IRM_TIPCIPCRT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPDCDT_ct
+SI_ORP_SAP.IRM_TIPDCDT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPDCDT_hv
+SI_ORP_SAP.IRM_TIPDCDT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPDCD_ct
+SI_ORP_SAP.IRM_TIPDCD_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPDCD_hv
+SI_ORP_SAP.IRM_TIPDCD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPPCRT_ct
+SI_ORP_SAP.IRM_TIPPCRT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPPCRT_hv
+SI_ORP_SAP.IRM_TIPPCRT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPPCR_ct
+SI_ORP_SAP.IRM_TIPPCR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPPCR_hv
+SI_ORP_SAP.IRM_TIPPCR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPPCTFRTT_ct
+SI_ORP_SAP.IRM_TIPPCTFRTT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPPCTFRTT_hv
+SI_ORP_SAP.IRM_TIPPCTFRTT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPPRAGT_ct
+SI_ORP_SAP.IRM_TIPPRAGT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPPRAGT_hv
+SI_ORP_SAP.IRM_TIPPRAGT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPTYPT_ct
+SI_ORP_SAP.IRM_TIPTYPT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPTYPT_hv
+SI_ORP_SAP.IRM_TIPTYPT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPTYP_ct
+SI_ORP_SAP.IRM_TIPTYP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TIPTYP_hv
+SI_ORP_SAP.IRM_TIPTYP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCBGPT_ct
+SI_ORP_SAP.IRM_TPCBGPT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCBGPT_hv
+SI_ORP_SAP.IRM_TPCBGPT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCBGP_ct
+SI_ORP_SAP.IRM_TPCBGP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCBGP_hv
+SI_ORP_SAP.IRM_TPCBGP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCBORGT_ct
+SI_ORP_SAP.IRM_TPCBORGT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCBORGT_hv
+SI_ORP_SAP.IRM_TPCBORGT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCBORG_ct
+SI_ORP_SAP.IRM_TPCBORG_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCBORG_hv
+SI_ORP_SAP.IRM_TPCBORG_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCCOTT_ct
+SI_ORP_SAP.IRM_TPCCOTT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCCOTT_hv
+SI_ORP_SAP.IRM_TPCCOTT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCCOT_ct
+SI_ORP_SAP.IRM_TPCCOT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCCOT_hv
+SI_ORP_SAP.IRM_TPCCOT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP10T_ct
+SI_ORP_SAP.IRM_TPCGRP10T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP10T_hv
+SI_ORP_SAP.IRM_TPCGRP10T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP10_ct
+SI_ORP_SAP.IRM_TPCGRP10_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP10_hv
+SI_ORP_SAP.IRM_TPCGRP10_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP11T_ct
+SI_ORP_SAP.IRM_TPCGRP11T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP11T_hv
+SI_ORP_SAP.IRM_TPCGRP11T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP11_ct
+SI_ORP_SAP.IRM_TPCGRP11_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP11_hv
+SI_ORP_SAP.IRM_TPCGRP11_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP12T_ct
+SI_ORP_SAP.IRM_TPCGRP12T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP12T_hv
+SI_ORP_SAP.IRM_TPCGRP12T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP12_ct
+SI_ORP_SAP.IRM_TPCGRP12_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP12_hv
+SI_ORP_SAP.IRM_TPCGRP12_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP1T_ct
+SI_ORP_SAP.IRM_TPCGRP1T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP1T_hv
+SI_ORP_SAP.IRM_TPCGRP1T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP1_ct
+SI_ORP_SAP.IRM_TPCGRP1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP1_hv
+SI_ORP_SAP.IRM_TPCGRP1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP2T_ct
+SI_ORP_SAP.IRM_TPCGRP2T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP2T_hv
+SI_ORP_SAP.IRM_TPCGRP2T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP2_ct
+SI_ORP_SAP.IRM_TPCGRP2_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP2_hv
+SI_ORP_SAP.IRM_TPCGRP2_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP3T_ct
+SI_ORP_SAP.IRM_TPCGRP3T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP3T_hv
+SI_ORP_SAP.IRM_TPCGRP3T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP3_ct
+SI_ORP_SAP.IRM_TPCGRP3_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP3_hv
+SI_ORP_SAP.IRM_TPCGRP3_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP4T_ct
+SI_ORP_SAP.IRM_TPCGRP4T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP4T_hv
+SI_ORP_SAP.IRM_TPCGRP4T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP4_ct
+SI_ORP_SAP.IRM_TPCGRP4_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP4_hv
+SI_ORP_SAP.IRM_TPCGRP4_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP5T_ct
+SI_ORP_SAP.IRM_TPCGRP5T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP5T_hv
+SI_ORP_SAP.IRM_TPCGRP5T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP5_ct
+SI_ORP_SAP.IRM_TPCGRP5_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP5_hv
+SI_ORP_SAP.IRM_TPCGRP5_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP6T_ct
+SI_ORP_SAP.IRM_TPCGRP6T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP6T_hv
+SI_ORP_SAP.IRM_TPCGRP6T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP6_ct
+SI_ORP_SAP.IRM_TPCGRP6_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP6_hv
+SI_ORP_SAP.IRM_TPCGRP6_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP7T_ct
+SI_ORP_SAP.IRM_TPCGRP7T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP7T_hv
+SI_ORP_SAP.IRM_TPCGRP7T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP7_ct
+SI_ORP_SAP.IRM_TPCGRP7_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP7_hv
+SI_ORP_SAP.IRM_TPCGRP7_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP8T_ct
+SI_ORP_SAP.IRM_TPCGRP8T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP8T_hv
+SI_ORP_SAP.IRM_TPCGRP8T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP8_ct
+SI_ORP_SAP.IRM_TPCGRP8_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP8_hv
+SI_ORP_SAP.IRM_TPCGRP8_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP9T_ct
+SI_ORP_SAP.IRM_TPCGRP9T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP9T_hv
+SI_ORP_SAP.IRM_TPCGRP9T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP9_ct
+SI_ORP_SAP.IRM_TPCGRP9_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCGRP9_hv
+SI_ORP_SAP.IRM_TPCGRP9_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCIDT_ct
+SI_ORP_SAP.IRM_TPCIDT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCIDT_hv
+SI_ORP_SAP.IRM_TPCIDT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCID_ct
+SI_ORP_SAP.IRM_TPCID_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCID_hv
+SI_ORP_SAP.IRM_TPCID_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCORGTYPT_ct
+SI_ORP_SAP.IRM_TPCORGTYPT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCORGTYPT_hv
+SI_ORP_SAP.IRM_TPCORGTYPT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCPRTYPT_ct
+SI_ORP_SAP.IRM_TPCPRTYPT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCPRTYPT_hv
+SI_ORP_SAP.IRM_TPCPRTYPT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCPRTYP_ct
+SI_ORP_SAP.IRM_TPCPRTYP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCPRTYP_hv
+SI_ORP_SAP.IRM_TPCPRTYP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCRSCDT_ct
+SI_ORP_SAP.IRM_TPCRSCDT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCRSCDT_hv
+SI_ORP_SAP.IRM_TPCRSCDT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCSOURCET_ct
+SI_ORP_SAP.IRM_TPCSOURCET_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCSOURCET_hv
+SI_ORP_SAP.IRM_TPCSOURCET_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCSOURCE_ct
+SI_ORP_SAP.IRM_TPCSOURCE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCSOURCE_hv
+SI_ORP_SAP.IRM_TPCSOURCE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCTYPT_ct
+SI_ORP_SAP.IRM_TPCTYPT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCTYPT_hv
+SI_ORP_SAP.IRM_TPCTYPT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCTYP_ct
+SI_ORP_SAP.IRM_TPCTYP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCTYP_hv
+SI_ORP_SAP.IRM_TPCTYP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCVERT_ct
+SI_ORP_SAP.IRM_TPCVERT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCVERT_hv
+SI_ORP_SAP.IRM_TPCVERT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCVER_ct
+SI_ORP_SAP.IRM_TPCVER_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCVER_hv
+SI_ORP_SAP.IRM_TPCVER_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCVORGT_ct
+SI_ORP_SAP.IRM_TPCVORGT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCVORGT_hv
+SI_ORP_SAP.IRM_TPCVORGT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCVORG_ct
+SI_ORP_SAP.IRM_TPCVORG_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.IRM_TPCVORG_hv
+SI_ORP_SAP.IRM_TPCVORG_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.JCDS_ct
+SI_ORP_SAP.JCDS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.JCDS_hv
+SI_ORP_SAP.JCDS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.JEST_ct
+SI_ORP_SAP.JEST_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.JEST_hv
+SI_ORP_SAP.JEST_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.JSTO_ct
+SI_ORP_SAP.JSTO_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.JSTO_hv
+SI_ORP_SAP.JSTO_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KLAH_ct
+SI_ORP_SAP.KLAH_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KLAH_hv
+SI_ORP_SAP.KLAH_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNA1_ct
+SI_ORP_SAP.KNA1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNA1_hv
+SI_ORP_SAP.KNA1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNB1_ct
+SI_ORP_SAP.KNB1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNB1_hv
+SI_ORP_SAP.KNB1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNB5_ct
+SI_ORP_SAP.KNB5_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNB5_hv
+SI_ORP_SAP.KNB5_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNBK_ct
+SI_ORP_SAP.KNBK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNBK_hv
+SI_ORP_SAP.KNBK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNKA_ct
+SI_ORP_SAP.KNKA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNKA_hv
+SI_ORP_SAP.KNKA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNVA_ct
+SI_ORP_SAP.KNVA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNVA_hv
+SI_ORP_SAP.KNVA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNVH_ct
+SI_ORP_SAP.KNVH_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNVH_hv
+SI_ORP_SAP.KNVH_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNVI_ct
+SI_ORP_SAP.KNVI_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNVI_hv
+SI_ORP_SAP.KNVI_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNVK_ct
+SI_ORP_SAP.KNVK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNVK_hv
+SI_ORP_SAP.KNVK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNVL_ct
+SI_ORP_SAP.KNVL_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNVL_hv
+SI_ORP_SAP.KNVL_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNVP_ct
+SI_ORP_SAP.KNVP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNVP_hv
+SI_ORP_SAP.KNVP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNVV_ct
+SI_ORP_SAP.KNVV_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KNVV_hv
+SI_ORP_SAP.KNVV_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KONAIND_ct
+SI_ORP_SAP.KONAIND_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KONAIND_hv
+SI_ORP_SAP.KONAIND_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KONA_ct
+SI_ORP_SAP.KONA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KONA_hv
+SI_ORP_SAP.KONA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KONH_ct
+SI_ORP_SAP.KONH_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KONH_hv
+SI_ORP_SAP.KONH_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KONM_ct
+SI_ORP_SAP.KONM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KONM_hv
+SI_ORP_SAP.KONM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KONP_ct
+SI_ORP_SAP.KONP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KONP_hv
+SI_ORP_SAP.KONP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KONV_ct
+SI_ORP_SAP.KONV_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KONV_hv
+SI_ORP_SAP.KONV_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KONW_ct
+SI_ORP_SAP.KONW_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.KONW_hv
+SI_ORP_SAP.KONW_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.LFA1_ct
+SI_ORP_SAP.LFA1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.LFA1_hv
+SI_ORP_SAP.LFA1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.LFB1_ct
+SI_ORP_SAP.LFB1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.LFB1_hv
+SI_ORP_SAP.LFB1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.LFM1_ct
+SI_ORP_SAP.LFM1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.LFM1_hv
+SI_ORP_SAP.LFM1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.LIKP_ct
+SI_ORP_SAP.LIKP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.LIKP_hv
+SI_ORP_SAP.LIKP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.LIPS_ct
+SI_ORP_SAP.LIPS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.LIPS_hv
+SI_ORP_SAP.LIPS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MAEX_ct
+SI_ORP_SAP.MAEX_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MAEX_hv
+SI_ORP_SAP.MAEX_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MAKT_ct
+SI_ORP_SAP.MAKT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MAKT_hv
+SI_ORP_SAP.MAKT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MARA_ct
+SI_ORP_SAP.MARA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MARA_hv
+SI_ORP_SAP.MARA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MARC_ct
+SI_ORP_SAP.MARC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MARC_hv
+SI_ORP_SAP.MARC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MARD_ct
+SI_ORP_SAP.MARD_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MARD_hv
+SI_ORP_SAP.MARD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MARM_ct
+SI_ORP_SAP.MARM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MARM_hv
+SI_ORP_SAP.MARM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MBEW_ct
+SI_ORP_SAP.MBEW_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MBEW_hv
+SI_ORP_SAP.MBEW_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MCH1_ct
+SI_ORP_SAP.MCH1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MCH1_hv
+SI_ORP_SAP.MCH1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MCHA_ct
+SI_ORP_SAP.MCHA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MCHA_hv
+SI_ORP_SAP.MCHA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MEAN_ct
+SI_ORP_SAP.MEAN_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MEAN_hv
+SI_ORP_SAP.MEAN_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MKPF_ct
+SI_ORP_SAP.MKPF_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MKPF_hv
+SI_ORP_SAP.MKPF_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MSEG_ct
+SI_ORP_SAP.MSEG_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MSEG_hv
+SI_ORP_SAP.MSEG_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MSKU_ct
+SI_ORP_SAP.MSKU_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MSKU_hv
+SI_ORP_SAP.MSKU_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MSR_C_RET_REASON_ct
+SI_ORP_SAP.MSR_C_RET_REASON_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MSR_C_RET_REASON_hv
+SI_ORP_SAP.MSR_C_RET_REASON_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MSR_C_RET_REASOT_ct
+SI_ORP_SAP.MSR_C_RET_REASOT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MSR_C_RET_REASOT_hv
+SI_ORP_SAP.MSR_C_RET_REASOT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MSR_C_RET_REFUNT_ct
+SI_ORP_SAP.MSR_C_RET_REFUNT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MSR_C_RET_REFUNT_hv
+SI_ORP_SAP.MSR_C_RET_REFUNT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MSR_D_EXECUTED_ct
+SI_ORP_SAP.MSR_D_EXECUTED_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MSR_D_EXECUTED_hv
+SI_ORP_SAP.MSR_D_EXECUTED_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MVER_ct
+SI_ORP_SAP.MVER_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MVER_hv
+SI_ORP_SAP.MVER_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MVKE_ct
+SI_ORP_SAP.MVKE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.MVKE_hv
+SI_ORP_SAP.MVKE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.M_FISCAL_CALENDAR_hv
+SI_ORP_SAP.M_FISCAL_CALENDAR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.NACH_ct
+SI_ORP_SAP.NACH_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.NACH_hv
+SI_ORP_SAP.NACH_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.OBJK_ct
+SI_ORP_SAP.OBJK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.OBJK_hv
+SI_ORP_SAP.OBJK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ONRPR_ct
+SI_ORP_SAP.ONRPR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ONRPR_hv
+SI_ORP_SAP.ONRPR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.PAYR_ct
+SI_ORP_SAP.PAYR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.PAYR_hv
+SI_ORP_SAP.PAYR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.PROJ_ct
+SI_ORP_SAP.PROJ_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.PROJ_hv
+SI_ORP_SAP.PROJ_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.PRPS_ct
+SI_ORP_SAP.PRPS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.PRPS_hv
+SI_ORP_SAP.PRPS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.RBKP_BLOCKED_ct
+SI_ORP_SAP.RBKP_BLOCKED_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.RBKP_BLOCKED_hv
+SI_ORP_SAP.RBKP_BLOCKED_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.RBKP_ct
+SI_ORP_SAP.RBKP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.RBKP_hv
+SI_ORP_SAP.RBKP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.REGUH_ct
+SI_ORP_SAP.REGUH_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.REGUH_hv
+SI_ORP_SAP.REGUH_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.REGUP_ct
+SI_ORP_SAP.REGUP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.REGUP_hv
+SI_ORP_SAP.REGUP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.RSEG_ct
+SI_ORP_SAP.RSEG_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.RSEG_hv
+SI_ORP_SAP.RSEG_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.S740_ct
+SI_ORP_SAP.S740_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.S740_hv
+SI_ORP_SAP.S740_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.S745_ct
+SI_ORP_SAP.S745_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.S745_hv
+SI_ORP_SAP.S745_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.S746_ct
+SI_ORP_SAP.S746_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.S746_hv
+SI_ORP_SAP.S746_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SCMGSTATPROFST_ct
+SI_ORP_SAP.SCMGSTATPROFST_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SCMGSTATPROFST_hv
+SI_ORP_SAP.SCMGSTATPROFST_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SCMG_T_CASE_ATTR_ct
+SI_ORP_SAP.SCMG_T_CASE_ATTR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SCMG_T_CASE_ATTR_hv
+SI_ORP_SAP.SCMG_T_CASE_ATTR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SER01_ct
+SI_ORP_SAP.SER01_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SER01_hv
+SI_ORP_SAP.SER01_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SETHEADERT_ct
+SI_ORP_SAP.SETHEADERT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SETHEADERT_hv
+SI_ORP_SAP.SETHEADERT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SETHEADER_ct
+SI_ORP_SAP.SETHEADER_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SETHEADER_hv
+SI_ORP_SAP.SETHEADER_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SETLEAF_ct
+SI_ORP_SAP.SETLEAF_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SETLEAF_hv
+SI_ORP_SAP.SETLEAF_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SETNODE_ct
+SI_ORP_SAP.SETNODE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SETNODE_hv
+SI_ORP_SAP.SETNODE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SKA1_ct
+SI_ORP_SAP.SKA1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SKA1_hv
+SI_ORP_SAP.SKA1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SKAT_ct
+SI_ORP_SAP.SKAT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SKAT_hv
+SI_ORP_SAP.SKAT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SKB1_ct
+SI_ORP_SAP.SKB1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SKB1_hv
+SI_ORP_SAP.SKB1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SPE_INSPECRESP_ct
+SI_ORP_SAP.SPE_INSPECRESP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SPE_INSPECRESP_hv
+SI_ORP_SAP.SPE_INSPECRESP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SWWWIHEAD_ct
+SI_ORP_SAP.SWWWIHEAD_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.SWWWIHEAD_hv
+SI_ORP_SAP.SWWWIHEAD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T000_ct
+SI_ORP_SAP.T000_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T000_hv
+SI_ORP_SAP.T000_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T001A_ct
+SI_ORP_SAP.T001A_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T001A_hv
+SI_ORP_SAP.T001A_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T001K_ct
+SI_ORP_SAP.T001K_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T001K_hv
+SI_ORP_SAP.T001K_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T001L_ct
+SI_ORP_SAP.T001L_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T001L_hv
+SI_ORP_SAP.T001L_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T001S_ct
+SI_ORP_SAP.T001S_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T001S_hv
+SI_ORP_SAP.T001S_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T001W_ct
+SI_ORP_SAP.T001W_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T001W_hv
+SI_ORP_SAP.T001W_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T001_ct
+SI_ORP_SAP.T001_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T001_hv
+SI_ORP_SAP.T001_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T003T_ct
+SI_ORP_SAP.T003T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T003T_hv
+SI_ORP_SAP.T003T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T003_ct
+SI_ORP_SAP.T003_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T003_hv
+SI_ORP_SAP.T003_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T004T_ct
+SI_ORP_SAP.T004T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T004T_hv
+SI_ORP_SAP.T004T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T004_ct
+SI_ORP_SAP.T004_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T004_hv
+SI_ORP_SAP.T004_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T005T_ct
+SI_ORP_SAP.T005T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T005T_hv
+SI_ORP_SAP.T005T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T005U_ct
+SI_ORP_SAP.T005U_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T005U_hv
+SI_ORP_SAP.T005U_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T005_ct
+SI_ORP_SAP.T005_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T005_hv
+SI_ORP_SAP.T005_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T006A_ct
+SI_ORP_SAP.T006A_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T006A_hv
+SI_ORP_SAP.T006A_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T006J_ct
+SI_ORP_SAP.T006J_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T006J_hv
+SI_ORP_SAP.T006J_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T006T_ct
+SI_ORP_SAP.T006T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T006T_hv
+SI_ORP_SAP.T006T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T006_ct
+SI_ORP_SAP.T006_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T006_hv
+SI_ORP_SAP.T006_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T008T_ct
+SI_ORP_SAP.T008T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T008T_hv
+SI_ORP_SAP.T008T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T008_ct
+SI_ORP_SAP.T008_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T008_hv
+SI_ORP_SAP.T008_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T009T_ct
+SI_ORP_SAP.T009T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T009T_hv
+SI_ORP_SAP.T009T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T014T_ct
+SI_ORP_SAP.T014T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T014T_hv
+SI_ORP_SAP.T014T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T014_ct
+SI_ORP_SAP.T014_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T014_hv
+SI_ORP_SAP.T014_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T016T_ct
+SI_ORP_SAP.T016T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T016T_hv
+SI_ORP_SAP.T016T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T023T_ct
+SI_ORP_SAP.T023T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T023T_hv
+SI_ORP_SAP.T023T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T023_ct
+SI_ORP_SAP.T023_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T023_hv
+SI_ORP_SAP.T023_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T024B_ct
+SI_ORP_SAP.T024B_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T024B_hv
+SI_ORP_SAP.T024B_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T024D_ct
+SI_ORP_SAP.T024D_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T024D_hv
+SI_ORP_SAP.T024D_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T024E_ct
+SI_ORP_SAP.T024E_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T024E_hv
+SI_ORP_SAP.T024E_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T024_ct
+SI_ORP_SAP.T024_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T024_hv
+SI_ORP_SAP.T024_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T025T_ct
+SI_ORP_SAP.T025T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T025T_hv
+SI_ORP_SAP.T025T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T030_ct
+SI_ORP_SAP.T030_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T030_hv
+SI_ORP_SAP.T030_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T040A_ct
+SI_ORP_SAP.T040A_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T040A_hv
+SI_ORP_SAP.T040A_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T040S_ct
+SI_ORP_SAP.T040S_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T040S_hv
+SI_ORP_SAP.T040S_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T040T_ct
+SI_ORP_SAP.T040T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T040T_hv
+SI_ORP_SAP.T040T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T040_ct
+SI_ORP_SAP.T040_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T040_hv
+SI_ORP_SAP.T040_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T042Z_ct
+SI_ORP_SAP.T042Z_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T042Z_hv
+SI_ORP_SAP.T042Z_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T047M_ct
+SI_ORP_SAP.T047M_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T047M_hv
+SI_ORP_SAP.T047M_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T047N_ct
+SI_ORP_SAP.T047N_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T047N_hv
+SI_ORP_SAP.T047N_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T052U_ct
+SI_ORP_SAP.T052U_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T052U_hv
+SI_ORP_SAP.T052U_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T052_ct
+SI_ORP_SAP.T052_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T052_hv
+SI_ORP_SAP.T052_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T053R_ct
+SI_ORP_SAP.T053R_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T053R_hv
+SI_ORP_SAP.T053R_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T053S_ct
+SI_ORP_SAP.T053S_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T053S_hv
+SI_ORP_SAP.T053S_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T074T_ct
+SI_ORP_SAP.T074T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T074T_hv
+SI_ORP_SAP.T074T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T074U_ct
+SI_ORP_SAP.T074U_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T074U_hv
+SI_ORP_SAP.T074U_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T077K_ct
+SI_ORP_SAP.T077K_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T077K_hv
+SI_ORP_SAP.T077K_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T077X_ct
+SI_ORP_SAP.T077X_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T077X_hv
+SI_ORP_SAP.T077X_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T077Y_ct
+SI_ORP_SAP.T077Y_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T077Y_hv
+SI_ORP_SAP.T077Y_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T087J_ct
+SI_ORP_SAP.T087J_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T087J_hv
+SI_ORP_SAP.T087J_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T098T_ct
+SI_ORP_SAP.T098T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T098T_hv
+SI_ORP_SAP.T098T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T134T_ct
+SI_ORP_SAP.T134T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T134T_hv
+SI_ORP_SAP.T134T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T134_ct
+SI_ORP_SAP.T134_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T134_hv
+SI_ORP_SAP.T134_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T141T_ct
+SI_ORP_SAP.T141T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T141T_hv
+SI_ORP_SAP.T141T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T142T_ct
+SI_ORP_SAP.T142T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T142T_hv
+SI_ORP_SAP.T142T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T143T_ct
+SI_ORP_SAP.T143T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T143T_hv
+SI_ORP_SAP.T143T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T151T_ct
+SI_ORP_SAP.T151T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T151T_hv
+SI_ORP_SAP.T151T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T151_ct
+SI_ORP_SAP.T151_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T151_hv
+SI_ORP_SAP.T151_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T156HT_ct
+SI_ORP_SAP.T156HT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T156HT_hv
+SI_ORP_SAP.T156HT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T156T_ct
+SI_ORP_SAP.T156T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T156T_hv
+SI_ORP_SAP.T156T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T157E_ct
+SI_ORP_SAP.T157E_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T157E_hv
+SI_ORP_SAP.T157E_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T158V_ct
+SI_ORP_SAP.T158V_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T158V_hv
+SI_ORP_SAP.T158V_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T158W_ct
+SI_ORP_SAP.T158W_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T158W_hv
+SI_ORP_SAP.T158W_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T161T_ct
+SI_ORP_SAP.T161T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T161T_hv
+SI_ORP_SAP.T161T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T161W_ct
+SI_ORP_SAP.T161W_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T161W_hv
+SI_ORP_SAP.T161W_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T161_ct
+SI_ORP_SAP.T161_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T161_hv
+SI_ORP_SAP.T161_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T163C_ct
+SI_ORP_SAP.T163C_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T163C_hv
+SI_ORP_SAP.T163C_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T163F_ct
+SI_ORP_SAP.T163F_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T163F_hv
+SI_ORP_SAP.T163F_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T163I_ct
+SI_ORP_SAP.T163I_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T163I_hv
+SI_ORP_SAP.T163I_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T163M_ct
+SI_ORP_SAP.T163M_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T163M_hv
+SI_ORP_SAP.T163M_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T163Y_ct
+SI_ORP_SAP.T163Y_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T163Y_hv
+SI_ORP_SAP.T163Y_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T163_ct
+SI_ORP_SAP.T163_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T163_hv
+SI_ORP_SAP.T163_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T16CT_ct
+SI_ORP_SAP.T16CT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T16CT_hv
+SI_ORP_SAP.T16CT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T16FE_ct
+SI_ORP_SAP.T16FE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T16FE_hv
+SI_ORP_SAP.T16FE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T16FH_ct
+SI_ORP_SAP.T16FH_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T16FH_hv
+SI_ORP_SAP.T16FH_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T16FT_ct
+SI_ORP_SAP.T16FT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T16FT_hv
+SI_ORP_SAP.T16FT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T171T_ct
+SI_ORP_SAP.T171T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T171T_hv
+SI_ORP_SAP.T171T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T176T_ct
+SI_ORP_SAP.T176T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T176T_hv
+SI_ORP_SAP.T176T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T178T_hv
+SI_ORP_SAP.T178T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T178_hv
+SI_ORP_SAP.T178_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T179T_ct
+SI_ORP_SAP.T179T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T179T_hv
+SI_ORP_SAP.T179T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T179_ct
+SI_ORP_SAP.T179_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T179_hv
+SI_ORP_SAP.T179_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T188T_ct
+SI_ORP_SAP.T188T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T188T_hv
+SI_ORP_SAP.T188T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T2508_ct
+SI_ORP_SAP.T2508_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T2508_hv
+SI_ORP_SAP.T2508_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T2509_ct
+SI_ORP_SAP.T2509_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T2509_hv
+SI_ORP_SAP.T2509_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T2510_ct
+SI_ORP_SAP.T2510_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T2510_hv
+SI_ORP_SAP.T2510_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T2511_ct
+SI_ORP_SAP.T2511_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T2511_hv
+SI_ORP_SAP.T2511_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T25A0_ct
+SI_ORP_SAP.T25A0_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T25A0_hv
+SI_ORP_SAP.T25A0_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T25A1_ct
+SI_ORP_SAP.T25A1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T25A1_hv
+SI_ORP_SAP.T25A1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T25A8_ct
+SI_ORP_SAP.T25A8_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T25A8_hv
+SI_ORP_SAP.T25A8_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T25A9_ct
+SI_ORP_SAP.T25A9_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T25A9_hv
+SI_ORP_SAP.T25A9_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T25B0_ct
+SI_ORP_SAP.T25B0_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T25B0_hv
+SI_ORP_SAP.T25B0_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T25B1_ct
+SI_ORP_SAP.T25B1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T25B1_hv
+SI_ORP_SAP.T25B1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T25B5_ct
+SI_ORP_SAP.T25B5_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T25B5_hv
+SI_ORP_SAP.T25B5_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T300T_ct
+SI_ORP_SAP.T300T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T300T_hv
+SI_ORP_SAP.T300T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T499S_ct
+SI_ORP_SAP.T499S_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T499S_hv
+SI_ORP_SAP.T499S_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T606G_ct
+SI_ORP_SAP.T606G_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T606G_hv
+SI_ORP_SAP.T606G_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T606H_ct
+SI_ORP_SAP.T606H_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T606H_hv
+SI_ORP_SAP.T606H_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T606R_ct
+SI_ORP_SAP.T606R_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T606R_hv
+SI_ORP_SAP.T606R_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T606T_ct
+SI_ORP_SAP.T606T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T606T_hv
+SI_ORP_SAP.T606T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T606V_ct
+SI_ORP_SAP.T606V_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T606V_hv
+SI_ORP_SAP.T606V_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T606Y_ct
+SI_ORP_SAP.T606Y_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T606Y_hv
+SI_ORP_SAP.T606Y_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T606Z_ct
+SI_ORP_SAP.T606Z_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T606Z_hv
+SI_ORP_SAP.T606Z_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T681B_ct
+SI_ORP_SAP.T681B_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T681B_hv
+SI_ORP_SAP.T681B_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T681T_ct
+SI_ORP_SAP.T681T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T681T_hv
+SI_ORP_SAP.T681T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T681W_ct
+SI_ORP_SAP.T681W_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T681W_hv
+SI_ORP_SAP.T681W_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T682I_ct
+SI_ORP_SAP.T682I_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T682I_hv
+SI_ORP_SAP.T682I_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T682T_ct
+SI_ORP_SAP.T682T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T682T_hv
+SI_ORP_SAP.T682T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T683T_ct
+SI_ORP_SAP.T683T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T683T_hv
+SI_ORP_SAP.T683T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T685A_ct
+SI_ORP_SAP.T685A_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T685A_hv
+SI_ORP_SAP.T685A_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T685T_ct
+SI_ORP_SAP.T685T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T685T_hv
+SI_ORP_SAP.T685T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T685_ct
+SI_ORP_SAP.T685_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T685_hv
+SI_ORP_SAP.T685_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T686F_ct
+SI_ORP_SAP.T686F_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T686F_hv
+SI_ORP_SAP.T686F_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T691T_ct
+SI_ORP_SAP.T691T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T691T_hv
+SI_ORP_SAP.T691T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T6B1T_ct
+SI_ORP_SAP.T6B1T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T6B1T_hv
+SI_ORP_SAP.T6B1T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T6B1_ct
+SI_ORP_SAP.T6B1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T6B1_hv
+SI_ORP_SAP.T6B1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T856T_ct
+SI_ORP_SAP.T856T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T856T_hv
+SI_ORP_SAP.T856T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T856_ct
+SI_ORP_SAP.T856_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T856_hv
+SI_ORP_SAP.T856_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T880_ct
+SI_ORP_SAP.T880_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T880_hv
+SI_ORP_SAP.T880_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T881T_ct
+SI_ORP_SAP.T881T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T881T_hv
+SI_ORP_SAP.T881T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T881_ct
+SI_ORP_SAP.T881_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T881_hv
+SI_ORP_SAP.T881_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T882G_ct
+SI_ORP_SAP.T882G_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T882G_hv
+SI_ORP_SAP.T882G_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T882_ct
+SI_ORP_SAP.T882_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T882_hv
+SI_ORP_SAP.T882_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T894T_ct
+SI_ORP_SAP.T894T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T894T_hv
+SI_ORP_SAP.T894T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T894_ct
+SI_ORP_SAP.T894_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.T894_hv
+SI_ORP_SAP.T894_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TAUUM_ct
+SI_ORP_SAP.TAUUM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TAUUM_hv
+SI_ORP_SAP.TAUUM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TB002_ct
+SI_ORP_SAP.TB002_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TB002_hv
+SI_ORP_SAP.TB002_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TB004T_ct
+SI_ORP_SAP.TB004T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TB004T_hv
+SI_ORP_SAP.TB004T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TB020_ct
+SI_ORP_SAP.TB020_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TB020_hv
+SI_ORP_SAP.TB020_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TB037T_ct
+SI_ORP_SAP.TB037T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TB037T_hv
+SI_ORP_SAP.TB037T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TBSGT_ct
+SI_ORP_SAP.TBSGT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TBSGT_hv
+SI_ORP_SAP.TBSGT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TBSG_ct
+SI_ORP_SAP.TBSG_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TBSG_hv
+SI_ORP_SAP.TBSG_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TBSLT_ct
+SI_ORP_SAP.TBSLT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TBSLT_hv
+SI_ORP_SAP.TBSLT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TBSL_ct
+SI_ORP_SAP.TBSL_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TBSL_hv
+SI_ORP_SAP.TBSL_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCESSIONT_ct
+SI_ORP_SAP.TCESSIONT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCESSIONT_hv
+SI_ORP_SAP.TCESSIONT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCJ04_ct
+SI_ORP_SAP.TCJ04_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCJ04_hv
+SI_ORP_SAP.TCJ04_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCJ1T_ct
+SI_ORP_SAP.TCJ1T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCJ1T_hv
+SI_ORP_SAP.TCJ1T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCJ4T_ct
+SI_ORP_SAP.TCJ4T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCJ4T_hv
+SI_ORP_SAP.TCJ4T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCURC_ct
+SI_ORP_SAP.TCURC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCURC_hv
+SI_ORP_SAP.TCURC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCURR_ct
+SI_ORP_SAP.TCURR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCURR_hv
+SI_ORP_SAP.TCURR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCURT_ct
+SI_ORP_SAP.TCURT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCURT_hv
+SI_ORP_SAP.TCURT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCURX_ct
+SI_ORP_SAP.TCURX_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TCURX_hv
+SI_ORP_SAP.TCURX_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TFAVT_ct
+SI_ORP_SAP.TFAVT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TFAVT_hv
+SI_ORP_SAP.TFAVT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TFAVW_ct
+SI_ORP_SAP.TFAVW_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TFAVW_hv
+SI_ORP_SAP.TFAVW_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TFKBT_ct
+SI_ORP_SAP.TFKBT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TFKBT_hv
+SI_ORP_SAP.TFKBT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TFKB_ct
+SI_ORP_SAP.TFKB_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TFKB_hv
+SI_ORP_SAP.TFKB_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TGSBT_ct
+SI_ORP_SAP.TGSBT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TGSBT_hv
+SI_ORP_SAP.TGSBT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TGSB_ct
+SI_ORP_SAP.TGSB_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TGSB_hv
+SI_ORP_SAP.TGSB_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TINCT_ct
+SI_ORP_SAP.TINCT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TINCT_hv
+SI_ORP_SAP.TINCT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TJ02T_ct
+SI_ORP_SAP.TJ02T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TJ02T_hv
+SI_ORP_SAP.TJ02T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TJ30T_ct
+SI_ORP_SAP.TJ30T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TJ30T_hv
+SI_ORP_SAP.TJ30T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKA01_ct
+SI_ORP_SAP.TKA01_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKA01_hv
+SI_ORP_SAP.TKA01_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKA02_ct
+SI_ORP_SAP.TKA02_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKA02_hv
+SI_ORP_SAP.TKA02_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKELT_ct
+SI_ORP_SAP.TKELT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKELT_hv
+SI_ORP_SAP.TKELT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKEL_ct
+SI_ORP_SAP.TKEL_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKEL_hv
+SI_ORP_SAP.TKEL_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKT03_ct
+SI_ORP_SAP.TKT03_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKT03_hv
+SI_ORP_SAP.TKT03_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKUKL_ct
+SI_ORP_SAP.TKUKL_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKUKL_hv
+SI_ORP_SAP.TKUKL_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKUKT_ct
+SI_ORP_SAP.TKUKT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKUKT_hv
+SI_ORP_SAP.TKUKT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKVST_ct
+SI_ORP_SAP.TKVST_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKVST_hv
+SI_ORP_SAP.TKVST_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKVS_ct
+SI_ORP_SAP.TKVS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TKVS_hv
+SI_ORP_SAP.TKVS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TMC1T_ct
+SI_ORP_SAP.TMC1T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TMC1T_hv
+SI_ORP_SAP.TMC1T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TMKKT_ct
+SI_ORP_SAP.TMKKT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TMKKT_hv
+SI_ORP_SAP.TMKKT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TMKK_ct
+SI_ORP_SAP.TMKK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TMKK_hv
+SI_ORP_SAP.TMKK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TP19T_ct
+SI_ORP_SAP.TP19T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TP19T_hv
+SI_ORP_SAP.TP19T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TPART_ct
+SI_ORP_SAP.TPART_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TPART_hv
+SI_ORP_SAP.TPART_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TQ04A_ct
+SI_ORP_SAP.TQ04A_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TQ04A_hv
+SI_ORP_SAP.TQ04A_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TQ04S_ct
+SI_ORP_SAP.TQ04S_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TQ04S_hv
+SI_ORP_SAP.TQ04S_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TROLZ_ct
+SI_ORP_SAP.TROLZ_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TROLZ_hv
+SI_ORP_SAP.TROLZ_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSABT_ct
+SI_ORP_SAP.TSABT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSABT_hv
+SI_ORP_SAP.TSABT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSAB_ct
+SI_ORP_SAP.TSAB_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSAB_hv
+SI_ORP_SAP.TSAB_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSAD2T_ct
+SI_ORP_SAP.TSAD2T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSAD2T_hv
+SI_ORP_SAP.TSAD2T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSAD3T_ct
+SI_ORP_SAP.TSAD3T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSAD3T_hv
+SI_ORP_SAP.TSAD3T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSAD5T_ct
+SI_ORP_SAP.TSAD5T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSAD5T_hv
+SI_ORP_SAP.TSAD5T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSKDT_ct
+SI_ORP_SAP.TSKDT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSKDT_hv
+SI_ORP_SAP.TSKDT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSPAT_ct
+SI_ORP_SAP.TSPAT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSPAT_hv
+SI_ORP_SAP.TSPAT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSPA_ct
+SI_ORP_SAP.TSPA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TSPA_hv
+SI_ORP_SAP.TSPA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TTXIT_ct
+SI_ORP_SAP.TTXIT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TTXIT_hv
+SI_ORP_SAP.TTXIT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TTYPT_ct
+SI_ORP_SAP.TTYPT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TTYPT_hv
+SI_ORP_SAP.TTYPT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TTYP_ct
+SI_ORP_SAP.TTYP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TTYP_hv
+SI_ORP_SAP.TTYP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVAGT_ct
+SI_ORP_SAP.TVAGT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVAGT_hv
+SI_ORP_SAP.TVAGT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVAKT_ct
+SI_ORP_SAP.TVAKT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVAKT_hv
+SI_ORP_SAP.TVAKT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVAK_ct
+SI_ORP_SAP.TVAK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVAK_hv
+SI_ORP_SAP.TVAK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVAPT_ct
+SI_ORP_SAP.TVAPT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVAPT_hv
+SI_ORP_SAP.TVAPT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVAP_ct
+SI_ORP_SAP.TVAP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVAP_hv
+SI_ORP_SAP.TVAP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVARVC_ct
+SI_ORP_SAP.TVARVC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVARVC_hv
+SI_ORP_SAP.TVARVC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVAST_ct
+SI_ORP_SAP.TVAST_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVAST_hv
+SI_ORP_SAP.TVAST_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVAUT_ct
+SI_ORP_SAP.TVAUT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVAUT_hv
+SI_ORP_SAP.TVAUT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVBST_ct
+SI_ORP_SAP.TVBST_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVBST_hv
+SI_ORP_SAP.TVBST_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVBUR_ct
+SI_ORP_SAP.TVBUR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVBUR_hv
+SI_ORP_SAP.TVBUR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVFKT_ct
+SI_ORP_SAP.TVFKT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVFKT_hv
+SI_ORP_SAP.TVFKT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVFK_ct
+SI_ORP_SAP.TVFK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVFK_hv
+SI_ORP_SAP.TVFK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVFST_ct
+SI_ORP_SAP.TVFST_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVFST_hv
+SI_ORP_SAP.TVFST_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVGAT_ct
+SI_ORP_SAP.TVGAT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVGAT_hv
+SI_ORP_SAP.TVGAT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVGA_ct
+SI_ORP_SAP.TVGA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVGA_hv
+SI_ORP_SAP.TVGA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVGRT_ct
+SI_ORP_SAP.TVGRT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVGRT_hv
+SI_ORP_SAP.TVGRT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVKBT_ct
+SI_ORP_SAP.TVKBT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVKBT_hv
+SI_ORP_SAP.TVKBT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVKDT_ct
+SI_ORP_SAP.TVKDT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVKDT_hv
+SI_ORP_SAP.TVKDT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVKGR_ct
+SI_ORP_SAP.TVKGR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVKGR_hv
+SI_ORP_SAP.TVKGR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVKOS_ct
+SI_ORP_SAP.TVKOS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVKOS_hv
+SI_ORP_SAP.TVKOS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVKOT_ct
+SI_ORP_SAP.TVKOT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVKOT_hv
+SI_ORP_SAP.TVKOT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVKO_ct
+SI_ORP_SAP.TVKO_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVKO_hv
+SI_ORP_SAP.TVKO_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVKWZ_ct
+SI_ORP_SAP.TVKWZ_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVKWZ_hv
+SI_ORP_SAP.TVKWZ_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVLST_ct
+SI_ORP_SAP.TVLST_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVLST_hv
+SI_ORP_SAP.TVLST_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVLVT_ct
+SI_ORP_SAP.TVLVT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVLVT_hv
+SI_ORP_SAP.TVLVT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVM1T_ct
+SI_ORP_SAP.TVM1T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVM1T_hv
+SI_ORP_SAP.TVM1T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVM1_ct
+SI_ORP_SAP.TVM1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVM1_hv
+SI_ORP_SAP.TVM1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVMST_ct
+SI_ORP_SAP.TVMST_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVMST_hv
+SI_ORP_SAP.TVMST_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVPT_ct
+SI_ORP_SAP.TVPT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVPT_hv
+SI_ORP_SAP.TVPT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVSBT_ct
+SI_ORP_SAP.TVSBT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVSBT_hv
+SI_ORP_SAP.TVSBT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVSTT_ct
+SI_ORP_SAP.TVSTT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVSTT_hv
+SI_ORP_SAP.TVSTT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVTA_ct
+SI_ORP_SAP.TVTA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVTA_hv
+SI_ORP_SAP.TVTA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVTWT_ct
+SI_ORP_SAP.TVTWT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVTWT_hv
+SI_ORP_SAP.TVTWT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVTW_ct
+SI_ORP_SAP.TVTW_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVTW_hv
+SI_ORP_SAP.TVTW_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVV1T_ct
+SI_ORP_SAP.TVV1T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVV1T_hv
+SI_ORP_SAP.TVV1T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVV2T_ct
+SI_ORP_SAP.TVV2T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVV2T_hv
+SI_ORP_SAP.TVV2T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVV3T_ct
+SI_ORP_SAP.TVV3T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVV3T_hv
+SI_ORP_SAP.TVV3T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVV4T_ct
+SI_ORP_SAP.TVV4T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVV4T_hv
+SI_ORP_SAP.TVV4T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVV5T_ct
+SI_ORP_SAP.TVV5T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVV5T_hv
+SI_ORP_SAP.TVV5T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVZBT_ct
+SI_ORP_SAP.TVZBT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVZBT_hv
+SI_ORP_SAP.TVZBT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVZB_ct
+SI_ORP_SAP.TVZB_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TVZB_hv
+SI_ORP_SAP.TVZB_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TWEWT_ct
+SI_ORP_SAP.TWEWT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TWEWT_hv
+SI_ORP_SAP.TWEWT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TWEW_ct
+SI_ORP_SAP.TWEW_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.TWEW_hv
+SI_ORP_SAP.TWEW_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKMBP_CMS_SGM_ct
+SI_ORP_SAP.UKMBP_CMS_SGM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKMBP_CMS_SGM_hv
+SI_ORP_SAP.UKMBP_CMS_SGM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKMBP_CMS_ct
+SI_ORP_SAP.UKMBP_CMS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKMBP_CMS_hv
+SI_ORP_SAP.UKMBP_CMS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKMCASEATTR00_ct
+SI_ORP_SAP.UKMCASEATTR00_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKMCASEATTR00_hv
+SI_ORP_SAP.UKMCASEATTR00_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKMCRED_SGM0T_ct
+SI_ORP_SAP.UKMCRED_SGM0T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKMCRED_SGM0T_hv
+SI_ORP_SAP.UKMCRED_SGM0T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKM_CUST_GRP0T_ct
+SI_ORP_SAP.UKM_CUST_GRP0T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKM_CUST_GRP0T_hv
+SI_ORP_SAP.UKM_CUST_GRP0T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKM_DCD_ATTR_ct
+SI_ORP_SAP.UKM_DCD_ATTR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKM_DCD_ATTR_hv
+SI_ORP_SAP.UKM_DCD_ATTR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKM_INFOTYP0T_ct
+SI_ORP_SAP.UKM_INFOTYP0T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKM_INFOTYP0T_hv
+SI_ORP_SAP.UKM_INFOTYP0T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKM_KKBER2SGM_ct
+SI_ORP_SAP.UKM_KKBER2SGM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKM_KKBER2SGM_hv
+SI_ORP_SAP.UKM_KKBER2SGM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKM_LIMIT_RULES_ct
+SI_ORP_SAP.UKM_LIMIT_RULES_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKM_LIMIT_RULES_hv
+SI_ORP_SAP.UKM_LIMIT_RULES_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKM_RISK_CL0T_ct
+SI_ORP_SAP.UKM_RISK_CL0T_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.UKM_RISK_CL0T_hv
+SI_ORP_SAP.UKM_RISK_CL0T_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.USR02_hv
+SI_ORP_SAP.USR02_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.USR21_ct
+SI_ORP_SAP.USR21_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.USR21_hv
+SI_ORP_SAP.USR21_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VALW_ct
+SI_ORP_SAP.VALW_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VALW_hv
+SI_ORP_SAP.VALW_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VARK_ct
+SI_ORP_SAP.VARK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VARK_hv
+SI_ORP_SAP.VARK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VAWK_ct
+SI_ORP_SAP.VAWK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VAWK_hv
+SI_ORP_SAP.VAWK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBAK_ct
+SI_ORP_SAP.VBAK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBAK_hv
+SI_ORP_SAP.VBAK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBAP_ct
+SI_ORP_SAP.VBAP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBAP_hv
+SI_ORP_SAP.VBAP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBBE_ct
+SI_ORP_SAP.VBBE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBBE_hv
+SI_ORP_SAP.VBBE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBEP_ct
+SI_ORP_SAP.VBEP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBEP_hv
+SI_ORP_SAP.VBEP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBFA_ct
+SI_ORP_SAP.VBFA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBFA_hv
+SI_ORP_SAP.VBFA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBKD_ct
+SI_ORP_SAP.VBKD_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBKD_hv
+SI_ORP_SAP.VBKD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBPA_ct
+SI_ORP_SAP.VBPA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBPA_hv
+SI_ORP_SAP.VBPA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBRK_ct
+SI_ORP_SAP.VBRK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBRK_hv
+SI_ORP_SAP.VBRK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBRP_ct
+SI_ORP_SAP.VBRP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBRP_hv
+SI_ORP_SAP.VBRP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBUK_ct
+SI_ORP_SAP.VBUK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBUK_hv
+SI_ORP_SAP.VBUK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBUP_ct
+SI_ORP_SAP.VBUP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VBUP_hv
+SI_ORP_SAP.VBUP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VCKUN_ct
+SI_ORP_SAP.VCKUN_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VCKUN_hv
+SI_ORP_SAP.VCKUN_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VCNUM_ct
+SI_ORP_SAP.VCNUM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VCNUM_hv
+SI_ORP_SAP.VCNUM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VEKP_ct
+SI_ORP_SAP.VEKP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VEKP_hv
+SI_ORP_SAP.VEKP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VTTK_ct
+SI_ORP_SAP.VTTK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VTTK_hv
+SI_ORP_SAP.VTTK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VTTP_ct
+SI_ORP_SAP.VTTP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VTTP_hv
+SI_ORP_SAP.VTTP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VXSISR_ct
+SI_ORP_SAP.VXSISR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.VXSISR_hv
+SI_ORP_SAP.VXSISR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.WYT1_ct
+SI_ORP_SAP.WYT1_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.WYT1_hv
+SI_ORP_SAP.WYT1_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.WYT3_ct
+SI_ORP_SAP.WYT3_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.WYT3_hv
+SI_ORP_SAP.WYT3_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YRTR_HANA_WPRFMT_ct
+SI_ORP_SAP.YRTR_HANA_WPRFMT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YRTR_HANA_WPRFMT_hv
+SI_ORP_SAP.YRTR_HANA_WPRFMT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTCA_ENH_CRITERI_ct
+SI_ORP_SAP.YTCA_ENH_CRITERI_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTCA_ENH_CRITERI_hv
+SI_ORP_SAP.YTCA_ENH_CRITERI_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTEDPAR_ct
+SI_ORP_SAP.YTEDPAR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTEDPAR_hv
+SI_ORP_SAP.YTEDPAR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTFI_BU_MAPPING_ct
+SI_ORP_SAP.YTFI_BU_MAPPING_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTFI_BU_MAPPING_hv
+SI_ORP_SAP.YTFI_BU_MAPPING_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTFI_EBS_BICODE_ct
+SI_ORP_SAP.YTFI_EBS_BICODE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTFI_EBS_BICODE_hv
+SI_ORP_SAP.YTFI_EBS_BICODE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTFI_GROUP_hv
+SI_ORP_SAP.YTFI_GROUP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTFI_TAXRATE_ct
+SI_ORP_SAP.YTFI_TAXRATE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTFI_TAXRATE_hv
+SI_ORP_SAP.YTFI_TAXRATE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_ADDN_CRRSN_ct
+SI_ORP_SAP.YTIRM_ADDN_CRRSN_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_ADDN_CRRSN_hv
+SI_ORP_SAP.YTIRM_ADDN_CRRSN_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_CCREASONT_ct
+SI_ORP_SAP.YTIRM_CCREASONT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_CCREASONT_hv
+SI_ORP_SAP.YTIRM_CCREASONT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_CCREASON_ct
+SI_ORP_SAP.YTIRM_CCREASON_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_CCREASON_hv
+SI_ORP_SAP.YTIRM_CCREASON_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_CC_MIX_DTL_ct
+SI_ORP_SAP.YTIRM_CC_MIX_DTL_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_CC_MIX_DTL_hv
+SI_ORP_SAP.YTIRM_CC_MIX_DTL_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_CC_MIX_ct
+SI_ORP_SAP.YTIRM_CC_MIX_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_CC_MIX_hv
+SI_ORP_SAP.YTIRM_CC_MIX_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_CRCOPA_ct
+SI_ORP_SAP.YTIRM_CRCOPA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_CRCOPA_hv
+SI_ORP_SAP.YTIRM_CRCOPA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_CRGRP_CON_ct
+SI_ORP_SAP.YTIRM_CRGRP_CON_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_CRGRP_CON_hv
+SI_ORP_SAP.YTIRM_CRGRP_CON_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_DM_TRACKNG_ct
+SI_ORP_SAP.YTIRM_DM_TRACKNG_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_DM_TRACKNG_hv
+SI_ORP_SAP.YTIRM_DM_TRACKNG_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_DOCUST_SUM_ct
+SI_ORP_SAP.YTIRM_DOCUST_SUM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_DOCUST_SUM_hv
+SI_ORP_SAP.YTIRM_DOCUST_SUM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_EDI852_ct
+SI_ORP_SAP.YTIRM_EDI852_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_EDI852_hv
+SI_ORP_SAP.YTIRM_EDI852_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_FILTFLD_ct
+SI_ORP_SAP.YTIRM_FILTFLD_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_FILTFLD_hv
+SI_ORP_SAP.YTIRM_FILTFLD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_FILTHDR_ct
+SI_ORP_SAP.YTIRM_FILTHDR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_FILTHDR_hv
+SI_ORP_SAP.YTIRM_FILTHDR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_FREQ_HANA_ct
+SI_ORP_SAP.YTIRM_FREQ_HANA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_FREQ_HANA_hv
+SI_ORP_SAP.YTIRM_FREQ_HANA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_PRL_RANK_ct
+SI_ORP_SAP.YTIRM_PRL_RANK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_PRL_RANK_hv
+SI_ORP_SAP.YTIRM_PRL_RANK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_REASONCODE_ct
+SI_ORP_SAP.YTIRM_REASONCODE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_REASONCODE_hv
+SI_ORP_SAP.YTIRM_REASONCODE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_SOW_ct
+SI_ORP_SAP.YTIRM_SOW_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_SOW_hv
+SI_ORP_SAP.YTIRM_SOW_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_STL_DETAIL_ct
+SI_ORP_SAP.YTIRM_STL_DETAIL_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_STL_DETAIL_hv
+SI_ORP_SAP.YTIRM_STL_DETAIL_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_WACODENA_ct
+SI_ORP_SAP.YTIRM_WACODENA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTIRM_WACODENA_hv
+SI_ORP_SAP.YTIRM_WACODENA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTLE_TRANS_GRP_ct
+SI_ORP_SAP.YTLE_TRANS_GRP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTLE_TRANS_GRP_hv
+SI_ORP_SAP.YTLE_TRANS_GRP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_AA_RECORDS_ct
+SI_ORP_SAP.YTMM_AA_RECORDS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_AA_RECORDS_hv
+SI_ORP_SAP.YTMM_AA_RECORDS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_AHFS_TEXT_ct
+SI_ORP_SAP.YTMM_AHFS_TEXT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_AHFS_TEXT_hv
+SI_ORP_SAP.YTMM_AHFS_TEXT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_DEABASECODE_ct
+SI_ORP_SAP.YTMM_DEABASECODE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_DEABASECODE_hv
+SI_ORP_SAP.YTMM_DEABASECODE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_DEA_TEXT_ct
+SI_ORP_SAP.YTMM_DEA_TEXT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_DEA_TEXT_hv
+SI_ORP_SAP.YTMM_DEA_TEXT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_EQVTYP_TEXT_ct
+SI_ORP_SAP.YTMM_EQVTYP_TEXT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_EQVTYP_TEXT_hv
+SI_ORP_SAP.YTMM_EQVTYP_TEXT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_EQVTYP_ct
+SI_ORP_SAP.YTMM_EQVTYP_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_EQVTYP_hv
+SI_ORP_SAP.YTMM_EQVTYP_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_EQV_ITEM_ct
+SI_ORP_SAP.YTMM_EQV_ITEM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_EQV_ITEM_hv
+SI_ORP_SAP.YTMM_EQV_ITEM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_FINER_TEXT_ct
+SI_ORP_SAP.YTMM_FINER_TEXT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_FINER_TEXT_hv
+SI_ORP_SAP.YTMM_FINER_TEXT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_FINEST_TEXT_ct
+SI_ORP_SAP.YTMM_FINEST_TEXT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_FINEST_TEXT_hv
+SI_ORP_SAP.YTMM_FINEST_TEXT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_FINE_CLASS_ct
+SI_ORP_SAP.YTMM_FINE_CLASS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_FINE_CLASS_hv
+SI_ORP_SAP.YTMM_FINE_CLASS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_FINE_TEXT_ct
+SI_ORP_SAP.YTMM_FINE_TEXT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_FINE_TEXT_hv
+SI_ORP_SAP.YTMM_FINE_TEXT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_FORM_TEXT_ct
+SI_ORP_SAP.YTMM_FORM_TEXT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_FORM_TEXT_hv
+SI_ORP_SAP.YTMM_FORM_TEXT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_HAZMAT_TEXT_ct
+SI_ORP_SAP.YTMM_HAZMAT_TEXT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_HAZMAT_TEXT_hv
+SI_ORP_SAP.YTMM_HAZMAT_TEXT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_HAZMAT_ct
+SI_ORP_SAP.YTMM_HAZMAT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_HAZMAT_hv
+SI_ORP_SAP.YTMM_HAZMAT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_LICENSE_TYT_ct
+SI_ORP_SAP.YTMM_LICENSE_TYT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_LICENSE_TYT_hv
+SI_ORP_SAP.YTMM_LICENSE_TYT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_LIST1_TEXT_ct
+SI_ORP_SAP.YTMM_LIST1_TEXT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_LIST1_TEXT_hv
+SI_ORP_SAP.YTMM_LIST1_TEXT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_PO_AA_ct
+SI_ORP_SAP.YTMM_PO_AA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_PO_AA_hv
+SI_ORP_SAP.YTMM_PO_AA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_RETEXPT_ct
+SI_ORP_SAP.YTMM_RETEXPT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_RETEXPT_hv
+SI_ORP_SAP.YTMM_RETEXPT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_RETMAT_ct
+SI_ORP_SAP.YTMM_RETMAT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_RETMAT_hv
+SI_ORP_SAP.YTMM_RETMAT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_RETVEN_ct
+SI_ORP_SAP.YTMM_RETVEN_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_RETVEN_hv
+SI_ORP_SAP.YTMM_RETVEN_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_SPECL_TEXT_ct
+SI_ORP_SAP.YTMM_SPECL_TEXT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_SPECL_TEXT_hv
+SI_ORP_SAP.YTMM_SPECL_TEXT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_SUBBASETEXT_ct
+SI_ORP_SAP.YTMM_SUBBASETEXT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_SUBBASETEXT_hv
+SI_ORP_SAP.YTMM_SUBBASETEXT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_VEND_LIC_ct
+SI_ORP_SAP.YTMM_VEND_LIC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_VEND_LIC_hv
+SI_ORP_SAP.YTMM_VEND_LIC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_XREFPLANT_ct
+SI_ORP_SAP.YTMM_XREFPLANT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTMM_XREFPLANT_hv
+SI_ORP_SAP.YTMM_XREFPLANT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSDSHORTCODE_ct
+SI_ORP_SAP.YTSDSHORTCODE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSDSHORTCODE_hv
+SI_ORP_SAP.YTSDSHORTCODE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSDSOMACCUM_ct
+SI_ORP_SAP.YTSDSOMACCUM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSDSOMACCUM_hv
+SI_ORP_SAP.YTSDSOMACCUM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSDSOMCAL_ct
+SI_ORP_SAP.YTSDSOMCAL_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSDSOMCAL_hv
+SI_ORP_SAP.YTSDSOMCAL_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSDSOMLIM_ct
+SI_ORP_SAP.YTSDSOMLIM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSDSOMLIM_hv
+SI_ORP_SAP.YTSDSOMLIM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_BUSAREA_ct
+SI_ORP_SAP.YTSD_BUSAREA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_BUSAREA_hv
+SI_ORP_SAP.YTSD_BUSAREA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_CATCODE2_ct
+SI_ORP_SAP.YTSD_CATCODE2_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_CATCODE2_hv
+SI_ORP_SAP.YTSD_CATCODE2_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_CODE_NUMB_ct
+SI_ORP_SAP.YTSD_CODE_NUMB_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_CODE_NUMB_hv
+SI_ORP_SAP.YTSD_CODE_NUMB_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_CODE_VNUM_ct
+SI_ORP_SAP.YTSD_CODE_VNUM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_CODE_VNUM_hv
+SI_ORP_SAP.YTSD_CODE_VNUM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_CONSIGNMENT_ct
+SI_ORP_SAP.YTSD_CONSIGNMENT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_CONSIGNMENT_hv
+SI_ORP_SAP.YTSD_CONSIGNMENT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_CUSTSUB_ct
+SI_ORP_SAP.YTSD_CUSTSUB_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_CUSTSUB_hv
+SI_ORP_SAP.YTSD_CUSTSUB_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_CUST_CODE_ct
+SI_ORP_SAP.YTSD_CUST_CODE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_CUST_CODE_hv
+SI_ORP_SAP.YTSD_CUST_CODE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_CUST_XREF_ct
+SI_ORP_SAP.YTSD_CUST_XREF_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_CUST_XREF_hv
+SI_ORP_SAP.YTSD_CUST_XREF_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_DAM_CUSTDC_ct
+SI_ORP_SAP.YTSD_DAM_CUSTDC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_DAM_CUSTDC_hv
+SI_ORP_SAP.YTSD_DAM_CUSTDC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_DAM_CUSTGR4_ct
+SI_ORP_SAP.YTSD_DAM_CUSTGR4_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_DAM_CUSTGR4_hv
+SI_ORP_SAP.YTSD_DAM_CUSTGR4_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_DAM_CUSTMAT_ct
+SI_ORP_SAP.YTSD_DAM_CUSTMAT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_DAM_CUSTMAT_hv
+SI_ORP_SAP.YTSD_DAM_CUSTMAT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_DAM_GSNPAK_ct
+SI_ORP_SAP.YTSD_DAM_GSNPAK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_DAM_GSNPAK_hv
+SI_ORP_SAP.YTSD_DAM_GSNPAK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_DEPACC_CODE_ct
+SI_ORP_SAP.YTSD_DEPACC_CODE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_DEPACC_CODE_hv
+SI_ORP_SAP.YTSD_DEPACC_CODE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_EXCL_RULE_ct
+SI_ORP_SAP.YTSD_EXCL_RULE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_EXCL_RULE_hv
+SI_ORP_SAP.YTSD_EXCL_RULE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_HAMACHER_ZL_ct
+SI_ORP_SAP.YTSD_HAMACHER_ZL_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_HAMACHER_ZL_hv
+SI_ORP_SAP.YTSD_HAMACHER_ZL_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_ITEM_HDER_ct
+SI_ORP_SAP.YTSD_ITEM_HDER_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_ITEM_HDER_hv
+SI_ORP_SAP.YTSD_ITEM_HDER_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_ITM_SETMAT_ct
+SI_ORP_SAP.YTSD_ITM_SETMAT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_ITM_SETMAT_hv
+SI_ORP_SAP.YTSD_ITM_SETMAT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_NAT_ACCOUNT_ct
+SI_ORP_SAP.YTSD_NAT_ACCOUNT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_NAT_ACCOUNT_hv
+SI_ORP_SAP.YTSD_NAT_ACCOUNT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_NO_OVERRIDE_ct
+SI_ORP_SAP.YTSD_NO_OVERRIDE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_NO_OVERRIDE_hv
+SI_ORP_SAP.YTSD_NO_OVERRIDE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_OVERRIDE_ct
+SI_ORP_SAP.YTSD_OVERRIDE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_OVERRIDE_hv
+SI_ORP_SAP.YTSD_OVERRIDE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_PRC_STKR_TX_ct
+SI_ORP_SAP.YTSD_PRC_STKR_TX_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_PRC_STKR_TX_hv
+SI_ORP_SAP.YTSD_PRC_STKR_TX_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_PREFCONTROL_ct
+SI_ORP_SAP.YTSD_PREFCONTROL_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_PREFCONTROL_hv
+SI_ORP_SAP.YTSD_PREFCONTROL_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_PREFDATA_ct
+SI_ORP_SAP.YTSD_PREFDATA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_PREFDATA_hv
+SI_ORP_SAP.YTSD_PREFDATA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_PROD_XREF_ct
+SI_ORP_SAP.YTSD_PROD_XREF_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_PROD_XREF_hv
+SI_ORP_SAP.YTSD_PROD_XREF_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_RTNORD_RULE_ct
+SI_ORP_SAP.YTSD_RTNORD_RULE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_RTNORD_RULE_hv
+SI_ORP_SAP.YTSD_RTNORD_RULE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_RULE_VALUE_ct
+SI_ORP_SAP.YTSD_RULE_VALUE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_RULE_VALUE_hv
+SI_ORP_SAP.YTSD_RULE_VALUE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_SCH_LN_LOG_ct
+SI_ORP_SAP.YTSD_SCH_LN_LOG_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_SCH_LN_LOG_hv
+SI_ORP_SAP.YTSD_SCH_LN_LOG_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_SERVICE_TAR_ct
+SI_ORP_SAP.YTSD_SERVICE_TAR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_SERVICE_TAR_hv
+SI_ORP_SAP.YTSD_SERVICE_TAR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_SO_LOG_ct
+SI_ORP_SAP.YTSD_SO_LOG_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.YTSD_SO_LOG_hv
+SI_ORP_SAP.YTSD_SO_LOG_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ZMT_PTS_TAX_DRVR_ct
+SI_ORP_SAP.ZMT_PTS_TAX_DRVR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ZMT_PTS_TAX_DRVR_hv
+SI_ORP_SAP.ZMT_PTS_TAX_DRVR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ZSTXL_TX_ct
+SI_ORP_SAP.ZSTXL_TX_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ZSTXL_TX_hv
+SI_ORP_SAP.ZSTXL_TX_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ZTNPS_CUSTRET_ct
+SI_ORP_SAP.ZTNPS_CUSTRET_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ZTNPS_CUSTRET_hv
+SI_ORP_SAP.ZTNPS_CUSTRET_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ZTPS_EXEC_ct
+SI_ORP_SAP.ZTPS_EXEC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ZTPS_EXEC_hv
+SI_ORP_SAP.ZTPS_EXEC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ZTPS_PRODUCT_ct
+SI_ORP_SAP.ZTPS_PRODUCT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ZTPS_PRODUCT_hv
+SI_ORP_SAP.ZTPS_PRODUCT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ZTPS_SELECT_PREM_ct
+SI_ORP_SAP.ZTPS_SELECT_PREM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ZTPS_SELECT_PREM_hv
+SI_ORP_SAP.ZTPS_SELECT_PREM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ZTPS_SYSTEM_ct
+SI_ORP_SAP.ZTPS_SYSTEM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SAP.ZTPS_SYSTEM_hv
+SI_ORP_SAP.ZTPS_SYSTEM_hv dropped successfully 
+********************
+********************
+Deleting tables for dataset --> SI_ORP_CUSTOM
+Dropping --> SI_ORP_CUSTOM.BILLING_BILLING_ITEM_FACT_hv
+SI_ORP_CUSTOM.BILLING_BILLING_ITEM_FACT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_CUSTOM.BILLING_ct
+SI_ORP_CUSTOM.BILLING_ct dropped successfully 
+********************
+Dropping --> SI_ORP_CUSTOM.BILLING_hv
+SI_ORP_CUSTOM.BILLING_hv dropped successfully 
+********************
+Dropping --> SI_ORP_CUSTOM.CUSTOMERMASTER_ct
+SI_ORP_CUSTOM.CUSTOMERMASTER_ct dropped successfully 
+********************
+Dropping --> SI_ORP_CUSTOM.CUSTOMERMASTER_hv
+SI_ORP_CUSTOM.CUSTOMERMASTER_hv dropped successfully 
+********************
+Dropping --> SI_ORP_CUSTOM.CUSTOMERSALESDATA_ct
+SI_ORP_CUSTOM.CUSTOMERSALESDATA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_CUSTOM.CUSTOMERSALESDATA_hv
+SI_ORP_CUSTOM.CUSTOMERSALESDATA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_CUSTOM.MATERIAL_hv
+SI_ORP_CUSTOM.MATERIAL_hv dropped successfully 
+********************
+Dropping --> SI_ORP_CUSTOM.PARTNERFUNC_ct
+SI_ORP_CUSTOM.PARTNERFUNC_ct dropped successfully 
+********************
+Dropping --> SI_ORP_CUSTOM.PARTNERFUNC_hv
+SI_ORP_CUSTOM.PARTNERFUNC_hv dropped successfully 
+********************
+Dropping --> SI_ORP_CUSTOM.TIME_DETAIL_ct
+SI_ORP_CUSTOM.TIME_DETAIL_ct dropped successfully 
+********************
+Dropping --> SI_ORP_CUSTOM.TIME_DETAIL_hv
+SI_ORP_CUSTOM.TIME_DETAIL_hv dropped successfully 
+********************
+********************
+Deleting tables for dataset --> SI_ORP_SFDC
+Dropping --> SI_ORP_SFDC.ACCOUNTASSIGNMENTLOG_ct
+SI_ORP_SFDC.ACCOUNTASSIGNMENTLOG_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.ACCOUNTASSIGNMENTLOG_hv
+SI_ORP_SFDC.ACCOUNTASSIGNMENTLOG_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.ACCOUNT_HISTORY_ct
+SI_ORP_SFDC.ACCOUNT_HISTORY_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.ACCOUNT_HISTORY_hv
+SI_ORP_SFDC.ACCOUNT_HISTORY_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.ACCOUNT_ct
+SI_ORP_SFDC.ACCOUNT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.ACCOUNT_hv
+SI_ORP_SFDC.ACCOUNT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.APPROVAL_RULE_ct
+SI_ORP_SFDC.APPROVAL_RULE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.APPROVAL_RULE_hv
+SI_ORP_SFDC.APPROVAL_RULE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.APPROVAL_ct
+SI_ORP_SFDC.APPROVAL_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.APPROVAL_hv
+SI_ORP_SFDC.APPROVAL_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.BUSINESS_HOURS_ct
+SI_ORP_SFDC.BUSINESS_HOURS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.BUSINESS_HOURS_hv
+SI_ORP_SFDC.BUSINESS_HOURS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.BUSINESS_UNIT_CONTACT__C_ct
+SI_ORP_SFDC.BUSINESS_UNIT_CONTACT__C_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.BUSINESS_UNIT_CONTACT__C_hv
+SI_ORP_SFDC.BUSINESS_UNIT_CONTACT__C_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CALENDAR_C_ct
+SI_ORP_SFDC.CALENDAR_C_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CALENDAR_C_hv
+SI_ORP_SFDC.CALENDAR_C_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CALL_NOTES_ct
+SI_ORP_SFDC.CALL_NOTES_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CALL_NOTES_hv
+SI_ORP_SFDC.CALL_NOTES_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CALL_SCHEDULER_OPTIONAL_FIELD_STATE_ct
+SI_ORP_SFDC.CALL_SCHEDULER_OPTIONAL_FIELD_STATE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CALL_SCHEDULER_OPTIONAL_FIELD_STATE_hv
+SI_ORP_SFDC.CALL_SCHEDULER_OPTIONAL_FIELD_STATE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CALL_SCHEDULER_OPTIONAL_FIELD_ct
+SI_ORP_SFDC.CALL_SCHEDULER_OPTIONAL_FIELD_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CALL_SCHEDULER_OPTIONAL_FIELD_hv
+SI_ORP_SFDC.CALL_SCHEDULER_OPTIONAL_FIELD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CAMPAIGNMEMBER_ct
+SI_ORP_SFDC.CAMPAIGNMEMBER_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CAMPAIGNMEMBER_hv
+SI_ORP_SFDC.CAMPAIGNMEMBER_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CAMPAIGNPRODUCT_ct
+SI_ORP_SFDC.CAMPAIGNPRODUCT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CAMPAIGNPRODUCT_hv
+SI_ORP_SFDC.CAMPAIGNPRODUCT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CAMPAIGN_ct
+SI_ORP_SFDC.CAMPAIGN_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CAMPAIGN_hv
+SI_ORP_SFDC.CAMPAIGN_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CASES_HISTORY_ct
+SI_ORP_SFDC.CASES_HISTORY_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CASES_HISTORY_hv
+SI_ORP_SFDC.CASES_HISTORY_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CASES_ct
+SI_ORP_SFDC.CASES_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CASES_hv
+SI_ORP_SFDC.CASES_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.COMPETITORS_PRICE_DETAILS_ct
+SI_ORP_SFDC.COMPETITORS_PRICE_DETAILS_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.COMPETITORS_PRICE_DETAILS_hv
+SI_ORP_SFDC.COMPETITORS_PRICE_DETAILS_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.COMPETITOR_ct
+SI_ORP_SFDC.COMPETITOR_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.COMPETITOR_hv
+SI_ORP_SFDC.COMPETITOR_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CONTACT_ct
+SI_ORP_SFDC.CONTACT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CONTACT_hv
+SI_ORP_SFDC.CONTACT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CONTRACT_BUMPER_ct
+SI_ORP_SFDC.CONTRACT_BUMPER_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.CONTRACT_BUMPER_hv
+SI_ORP_SFDC.CONTRACT_BUMPER_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.HOLIDAY_ct
+SI_ORP_SFDC.HOLIDAY_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.HOLIDAY_hv
+SI_ORP_SFDC.HOLIDAY_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.LEAD_ct
+SI_ORP_SFDC.LEAD_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.LEAD_hv
+SI_ORP_SFDC.LEAD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.LINE_ITEM_HISTORY_ct
+SI_ORP_SFDC.LINE_ITEM_HISTORY_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.LINE_ITEM_HISTORY_hv
+SI_ORP_SFDC.LINE_ITEM_HISTORY_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.LINE_ITEM_ct
+SI_ORP_SFDC.LINE_ITEM_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.LINE_ITEM_hv
+SI_ORP_SFDC.LINE_ITEM_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.PRODUCT_CONTRACT_BUMPER_ct
+SI_ORP_SFDC.PRODUCT_CONTRACT_BUMPER_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.PRODUCT_CONTRACT_BUMPER_hv
+SI_ORP_SFDC.PRODUCT_CONTRACT_BUMPER_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.PROSPECT_ct
+SI_ORP_SFDC.PROSPECT_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.PROSPECT_hv
+SI_ORP_SFDC.PROSPECT_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.QUOTA_ct
+SI_ORP_SFDC.QUOTA_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.QUOTA_hv
+SI_ORP_SFDC.QUOTA_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.RECOMMENDED_PRODUCT__C_ct
+SI_ORP_SFDC.RECOMMENDED_PRODUCT__C_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.RECOMMENDED_PRODUCT__C_hv
+SI_ORP_SFDC.RECOMMENDED_PRODUCT__C_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.RECORD_TYPE_ct
+SI_ORP_SFDC.RECORD_TYPE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.RECORD_TYPE_hv
+SI_ORP_SFDC.RECORD_TYPE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.SALES_SCORECARD_ct
+SI_ORP_SFDC.SALES_SCORECARD_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.SALES_SCORECARD_hv
+SI_ORP_SFDC.SALES_SCORECARD_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.SBAA_TRACKEDVALUE__C_ct
+SI_ORP_SFDC.SBAA_TRACKEDVALUE__C_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.SBAA_TRACKEDVALUE__C_hv
+SI_ORP_SFDC.SBAA_TRACKEDVALUE__C_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.SBQQ__QUOTELINE__C_HISTORY_ct
+SI_ORP_SFDC.SBQQ__QUOTELINE__C_HISTORY_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.SBQQ__QUOTELINE__C_HISTORY_hv
+SI_ORP_SFDC.SBQQ__QUOTELINE__C_HISTORY_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.SBQQ__QUOTELINE__C_ct
+SI_ORP_SFDC.SBQQ__QUOTELINE__C_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.SBQQ__QUOTELINE__C_hv
+SI_ORP_SFDC.SBQQ__QUOTELINE__C_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.SBQQ__QUOTE__C_HISTORY_ct
+SI_ORP_SFDC.SBQQ__QUOTE__C_HISTORY_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.SBQQ__QUOTE__C_HISTORY_hv
+SI_ORP_SFDC.SBQQ__QUOTE__C_HISTORY_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.SBQQ__QUOTE__C_ct
+SI_ORP_SFDC.SBQQ__QUOTE__C_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.SBQQ__QUOTE__C_hv
+SI_ORP_SFDC.SBQQ__QUOTE__C_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.SEGMENTATION_ct
+SI_ORP_SFDC.SEGMENTATION_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.SEGMENTATION_hv
+SI_ORP_SFDC.SEGMENTATION_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.TASK_ct
+SI_ORP_SFDC.TASK_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.TASK_hv
+SI_ORP_SFDC.TASK_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.USERROLE_ct
+SI_ORP_SFDC.USERROLE_ct dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.USERROLE_hv
+SI_ORP_SFDC.USERROLE_hv dropped successfully 
+********************
+Dropping --> SI_ORP_SFDC.USER_ct
+SI_ORP_SFDC.USER_ct dropped successfully 
+********************
+Completed with Step 2
+********************
+Script executed successfully 
+********************
+Fri Jun 26 14:21:46 UTC 2020
